@@ -1,0 +1,17 @@
+@import 'src/assets/styles/vars';
+
+:host{
+  display: block;
+  background: $bg--dark;
+  padding: $grid-gutter;
+}
+
+.content{
+  display: flex;
+}
+
+.language-selector{
+  button{
+    display: block;
+  }
+}

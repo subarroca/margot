@@ -1,0 +1,40 @@
+{
+  "footer": {
+    "street": "Muntaner 414, Ent 2",
+    "city": "08006 Barcelona (Spain)",
+    "phone": "+34 93 414 50 00",
+    "email": "margot@margotviarnes.com",
+    "contact": "Contact us"
+  },
+  "home": {
+    "logoAlt": "Margot Viarnés"
+  },
+  "navbar": {
+    "logoAlt": "Margot Viarnés",
+    "interiorDesign": "Interior design",
+    "housing": "Housing",
+    "publicPlaces": "Public places",
+    "offices": "Multinational offices",
+    "furnishing": "Furnishing design",
+    "bespokeDesign": "Bespoke design",
+    "industrialDesign": "Industrial design",
+    "projects": "Presentation of our projects",
+    "luxor": "Luxor & Margot",
+    "showroom": "Studio - Showroom - Store",
+    "classicFurniture": "Classic furniture",
+    "contemporaryFurniture": "Contemporary furniture",
+    "textile": "Textile",
+    "company": "Margot & company",
+    "customers": "Customers",
+    "press": "Press",
+    "books": "Books",
+    "magazines": "Magazines"
+  },
+  "langs": {
+    "ca": "Catalan",
+    "en": "English",
+    "es": "Spanish",
+    "ru": "Russian",
+    "zh": "Chinese"
+  }
+}

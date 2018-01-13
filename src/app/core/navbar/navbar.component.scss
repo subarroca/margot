@@ -1,0 +1,67 @@
+@import 'src/assets/styles/vars';
+
+:host{
+  display: block;
+  background: $bg--dark;
+  padding: $grid-gutter;
+  font-size: $small;
+  text-transform: uppercase;
+}
+
+.holder{
+  display: flex;
+}
+
+nav{
+  span{
+    display: block;
+  }
+}
+
+.block{
+  position: relative;
+  width: $menu__item__width;
+}
+
+.block--0{
+  z-index: 3;
+}
+
+.block--1{
+  z-index: 2;
+}
+
+.block--2{
+  z-index: 1;
+}
+
+
+.level--1{
+  &:hover{
+    width: 2*$menu__item__width;
+
+    .level--2{
+      display: block;
+    }
+  }
+}
+
+.level--2{
+  width: $menu__item__width;
+  background: $bg--dark;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: $menu__item__width;
+  height: 100%;
+}
+
+a{
+  display: block;
+  color: $white;
+  text-decoration: none;
+
+  &:hover{
+    color: $contrast;
+  }
+}

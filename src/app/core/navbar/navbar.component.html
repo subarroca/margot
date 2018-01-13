@@ -1,0 +1,11 @@
+<div class="content holder">
+  <a [routerLink] = "['/']"><img src="" [alt]="'navbar.logoAlt' | translate" class="logo"></a>
+  <nav *ngFor="let block of menu$ | async; let i = index" class="block block--{{i}}">
+    <div *ngFor="let item of block" class="level level--1">
+      <a [routerLink] = "[item.type,item.id]">{{item.name | translate }}</a>
+      <div class="level level--2">
+        <a *ngFor="let child of item.children" [routerLink] = "[child.type,child.id]">{{child.name | translate}}</a>
+      </div>
+    </div>
+  </nav>
+</div>

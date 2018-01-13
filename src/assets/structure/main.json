@@ -1,0 +1,113 @@
+{
+  "langs": [
+    "ca",
+    "es",
+    "en",
+    "zh",
+    "ru"
+  ],
+  "menu": [
+    [
+      {
+        "id": "interior-design",
+        "name": "navbar.interiorDesign",
+        "type": "section",
+        "children": [
+          {
+            "id": "housing",
+            "name": "navbar.housing",
+            "type": "category"
+          },
+          {
+            "id": "public-places",
+            "name": "navbar.publicPlaces",
+            "type": "category"
+          },
+          {
+            "id": "offices",
+            "name": "navbar.offices",
+            "type": "category"
+          }
+        ]
+      },
+      {
+        "id": "furnishing",
+        "name": "navbar.furnishing",
+        "type": "section",
+        "children": [
+          {
+            "id": "bespoke-design",
+            "name": "navbar.bespokeDesign",
+            "type": "category"
+          },
+          {
+            "id": "industrial-design",
+            "name": "navbar.industrialDesign",
+            "type": "category"
+          }
+        ]
+      },
+      {
+        "id": "projects",
+        "name": "navbar.projects",
+        "type": "section"
+      },
+      {
+        "id": "luxor",
+        "name": "navbar.luxor",
+        "type": "section"
+      }
+    ],
+    [
+      {
+        "id": "showroom",
+        "name": "navbar.showroom",
+        "type": "section",
+        "children": [
+          {
+            "id": "classic-furniture",
+            "name": "navbar.classicFurniture",
+            "type": "category"
+          },
+          {
+            "id": "contemporary-furniture",
+            "name": "navbar.contemporaryFurniture",
+            "type": "category"
+          },
+          {
+            "id": "textile",
+            "name": "navbar.textile",
+            "type": "category"
+          }
+        ]
+      },
+      {
+        "id": "company",
+        "name": "navbar.company",
+        "type": "info"
+      },
+      {
+        "id": "customers",
+        "name": "navbar.customers",
+        "type": "info"
+      },
+      {
+        "id": "press",
+        "name": "navbar.press",
+        "type": "section",
+        "children": [
+          {
+            "id": "books",
+            "name": "navbar.books",
+            "type": "category"
+          },
+          {
+            "id": "magazines",
+            "name": "navbar.magazines",
+            "type": "category"
+          }
+        ]
+      }
+    ]
+  ]
+}

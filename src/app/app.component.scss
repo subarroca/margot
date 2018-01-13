@@ -1,0 +1,19 @@
+@import 'src/assets/styles/vars';
+
+:host{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content{
+  flex: 1;
+  padding: $grid-gutter;
+  display: flex;
+  flex-direction: column;
+}
+
+.content{
+  flex: 1;
+  display: flex;
+}

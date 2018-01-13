@@ -1,0 +1,16 @@
+<div class="content">
+  <div class="contact">
+    <div>{{'footer.street' | translate}}</div>
+    <div>{{'footer.city' | translate}}</div>
+    <div>{{'footer.phone' | translate}}</div>
+    <div>{{'footer.email' | translate}}</div>
+  </div>
+
+  <div class="language-selector">
+    <button *ngFor="let lang of langs$ | async" (click)="changeLang(lang)">{{'langs.'+lang|translate}}</button>
+  </div>
+
+  <div class="contact">
+    <a [routerLink] = "['/contact']">{{'footer.contact' | translate}}</a>
+  </div>
+</div>

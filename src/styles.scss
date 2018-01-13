@@ -1,0 +1,26 @@
+@import '../node_modules/reset-css/reset';
+
+
+@import 'assets/styles/vars';
+
+
+html{
+  background: $bg;
+  color:$white;
+}
+
+html,
+body{
+  font: 1em/1.3em $bodyFont;
+  min-height: 100vh;
+}
+
+.content{
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+}
+
+a{
+  color: $contrast;
+}
