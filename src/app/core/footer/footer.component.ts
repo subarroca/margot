@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 import { TranslateService } from '@ngx-translate/core';
 import { StructureService } from '../structure/structure.service';
+import { LocalizeRouterService } from 'localize-router';
 
 @Component({
   selector: 'app-footer',
@@ -13,15 +14,14 @@ export class FooterComponent implements OnInit {
 
   constructor(
     private structureService: StructureService,
-    private translateService: TranslateService
+    private localizeService: LocalizeRouterService
   ) { }
 
   ngOnInit() {
   }
 
   changeLang(lang) {
-    console.log(lang);
-    this.translateService.use(lang);
+    this.localizeService.changeLanguage(lang);
   }
 
 }

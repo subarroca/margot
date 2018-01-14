@@ -4,7 +4,7 @@
   display: block;
   background: $bg--dark;
   padding: $grid-gutter;
-  font-size: $small;
+  font: $small $menuFont;
   text-transform: uppercase;
 }
 

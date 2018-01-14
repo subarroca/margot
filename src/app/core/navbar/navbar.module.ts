@@ -1,12 +1,14 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { NavbarComponent } from './navbar.component';
-import { LibsModule } from 'app/lib/libs.module';
+import { LocalizeRouterModule } from 'localize-router';
+import { LibsModule } from '../../lib/libs.module';
 
 @NgModule({
   imports: [
     CommonModule,
-    LibsModule
+    LibsModule,
+    LocalizeRouterModule
   ],
   declarations: [NavbarComponent],
   exports: [NavbarComponent]

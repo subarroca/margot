@@ -1,6 +1,6 @@
 export interface StructureMenuItem {
-  type: string;
+  template: string;
   name: string;
   id: string;
-  children?: StructureMenuItem[]
+  children?: StructureMenuItem[];
 }

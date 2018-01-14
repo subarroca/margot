@@ -50,12 +50,12 @@
       {
         "id": "projects",
         "name": "navbar.projects",
-        "type": "section"
+        "type": "category"
       },
       {
         "id": "luxor",
         "name": "navbar.luxor",
-        "type": "section"
+        "type": "gallery"
       }
     ],
     [
@@ -67,17 +67,17 @@
           {
             "id": "classic-furniture",
             "name": "navbar.classicFurniture",
-            "type": "category"
+            "type": "gallery"
           },
           {
             "id": "contemporary-furniture",
             "name": "navbar.contemporaryFurniture",
-            "type": "category"
+            "type": "gallery"
           },
           {
             "id": "textile",
             "name": "navbar.textile",
-            "type": "category"
+            "type": "gallery"
           }
         ]
       },
@@ -99,12 +99,12 @@
           {
             "id": "books",
             "name": "navbar.books",
-            "type": "category"
+            "type": "gallery"
           },
           {
             "id": "magazines",
             "name": "navbar.magazines",
-            "type": "category"
+            "type": "gallery"
           }
         ]
       }

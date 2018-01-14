@@ -1,12 +1,14 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FooterComponent } from './footer.component';
-import { LibsModule } from 'app/lib/libs.module';
+import { LibsModule } from '../../lib/libs.module';
+import { LocalizeRouterModule } from 'localize-router';
 
 @NgModule({
   imports: [
     CommonModule,
-    LibsModule
+    LibsModule,
+    LocalizeRouterModule
   ],
   declarations: [FooterComponent],
   exports: [FooterComponent],

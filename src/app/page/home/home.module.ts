@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HomeComponent } from './home.component';
-import { LibsModule } from 'app/lib/libs.module';
+import { LocalizeRouterModule } from 'localize-router';
+import { LibsModule } from '../../lib/libs.module';
 
 @NgModule({
   imports: [

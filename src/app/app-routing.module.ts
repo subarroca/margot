@@ -1,16 +1,17 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { HomeComponent } from 'app/page/home/home.component';
-import { GalleryComponent } from 'app/page/gallery/gallery/gallery.component';
-import { ContactComponent } from 'app/page/contact/contact.component';
-import { InfoComponent } from 'app/page/info/info.component';
-import { CategoryComponent } from 'app/page/category/category.component';
-import { SectionComponent } from 'app/page/section/section.component';
+import { HomeComponent } from './page/home/home.component';
+import { GalleryComponent } from './page/gallery/gallery/gallery.component';
+import { ContactComponent } from './page/contact/contact.component';
+import { InfoComponent } from './page/info/info.component';
+import { CategoryComponent } from './page/category/category.component';
+import { SectionComponent } from './page/section/section.component';
 
-const routes: Routes = [
+export const routes: Routes = [
   {
     path: '',
-    component: HomeComponent
+    component: HomeComponent,
+    pathMatch: 'full'
   }, {
     path: 'section/:id',
     component: SectionComponent
@@ -26,11 +27,15 @@ const routes: Routes = [
   }, {
     path: 'info/:id',
     component: InfoComponent
+  }, {
+    path: '**',
+    redirectTo: ''
   }
 ];
 
-@NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
-})
-export class AppRoutingModule { }
+
+// @NgModule({
+//   imports: [RouterModule.forRoot(routes)],
+//   exports: [RouterModule]
+// })
+// export class AppRoutingModule { }
