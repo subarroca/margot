@@ -3,20 +3,20 @@
     "title": "content.housing.main.title",
     "desc": "content.housing.main.desc",
     "galleries": {
-            "projects/sabadell-1": {
-              "place": "content.place.sabadell",
-              "img": "http://lorempixel.com/120/90",
-              "tags": [
-                "content.tag.house"
-              ]
-            },
-            "projects/gracia-1": {
-              "place": "content.place.gracia",
-              "img": "http://lorempixel.com/120/90",
-              "tags": [
-                "content.tag.flat"
-              ]
-            },
+      "projects/sabadell-1": {
+        "place": "content.place.sabadell",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.house"
+        ]
+      },
+      "projects/gracia-1": {
+        "place": "content.place.gracia",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.flat"
+        ]
+      },
       "projects/eixample-1": {
         "place": "content.place.eixample",
         "img": "http://lorempixel.com/120/90",

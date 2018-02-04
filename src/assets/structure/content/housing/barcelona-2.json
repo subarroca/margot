@@ -1,0 +1,40 @@
+{
+  "place": "content.place.barcelona",
+  "tags": [
+    "content.tag.hall",
+    "content.tag.living",
+    "content.tag.dinning",
+    "content.tag.bedroom"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90"
+      ]
+    }
+  ]
+}

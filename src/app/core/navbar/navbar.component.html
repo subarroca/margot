@@ -6,7 +6,7 @@
     <div *ngFor="let item of block" class="level level--1">
         <a [routerLink]="['/',item.type,item.id]  | localize">{{item.name | translate }}</a>
       <div class="level level--2" *ngIf="item.children">
-        <a *ngFor="let child of item.children"  [routerLink]="['/',child.type,child.id] | localize">{{child.name | translate}}</a>
+        <a *ngFor="let child of item.children"  [routerLink]="getRoute(child) | localize">{{child.name | translate}}</a>
       </div>
     </div>
   </nav>

@@ -28,4 +28,8 @@ export class NavbarComponent implements OnInit {
     this.localizeService.changeLanguage(lang);
     this.currentLang = lang;
   }
+
+  getRoute(child) {
+    return ['/', child.type, ...child.id.split('/')];
+  }
 }

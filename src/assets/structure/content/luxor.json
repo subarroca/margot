@@ -1,0 +1,38 @@
+{
+  "place": "",
+  "tags": [
+    "content.luxor.title"
+  ],
+  "desc":"content.luxor.desc",
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90"
+      ]
+    }
+  ]
+}

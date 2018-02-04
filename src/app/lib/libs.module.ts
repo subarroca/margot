@@ -6,6 +6,7 @@ import { TranslateModule } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
 import { LocalizeRouterModule } from 'localize-router';
 
+
 @NgModule({
   imports: [
     CommonModule,

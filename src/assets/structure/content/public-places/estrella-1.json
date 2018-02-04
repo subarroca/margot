@@ -1,0 +1,38 @@
+{
+  "place": "content.place.barcelona",
+  "tags": [
+    "content.tag.shoeshop",
+    "content.tag.estrella"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90"
+      ]
+    }
+  ]
+}

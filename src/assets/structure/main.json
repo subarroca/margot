@@ -36,12 +36,12 @@
         "type": "section",
         "children": [
           {
-            "id": "bespoke-design",
+            "id": "furnishing/bespoke-design",
             "name": "navbar.bespokeDesign",
             "type": "category"
           },
           {
-            "id": "industrial-design",
+            "id": "furnishing/industrial-design",
             "name": "navbar.industrialDesign",
             "type": "category"
           }
@@ -65,17 +65,17 @@
         "type": "section",
         "children": [
           {
-            "id": "classic-furniture",
+            "id": "showroom/classic-furniture",
             "name": "navbar.classicFurniture",
             "type": "gallery"
           },
           {
-            "id": "contemporary-furniture",
+            "id": "showroom/contemporary-furniture",
             "name": "navbar.contemporaryFurniture",
             "type": "gallery"
           },
           {
-            "id": "textile",
+            "id": "showroom/textile",
             "name": "navbar.textile",
             "type": "gallery"
           }
@@ -97,12 +97,12 @@
         "type": "section",
         "children": [
           {
-            "id": "books",
+            "id": "press/books",
             "name": "navbar.books",
             "type": "gallery"
           },
           {
-            "id": "magazines",
+            "id": "press/magazines",
             "name": "navbar.magazines",
             "type": "gallery"
           }

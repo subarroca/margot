@@ -17,14 +17,14 @@
         ]
       },
       "offices/grupo-das-1": {
-        "place": "content.place.none",        
+        "place": "",        
         "img": "http://lorempixel.com/120/90",
         "tags": [
           "content.tag.grupoDas"
         ]
       },
       "offices/checkpoint-1": {
-        "place": "content.place.none",
+        "place": "",
         "img": "http://lorempixel.com/120/90",
         "tags": [
           "content.tag.checkpoint"

@@ -7,13 +7,13 @@
         "title": "content.furnishing.bespoke.title",
         "desc": "content.furnishing.bespoke.desc",
         "img": "http://lorempixel.com/120/90",
-        "link": "bespoke-design"
+        "link": "furnishing/bespoke-design"
       },
       {
         "title": "content.furnishing.industrial.title",
         "desc": "content.furnishing.industrial.desc",
         "img": "http://lorempixel.com/120/90",
-        "link": "industrialDesign"
+        "link": "furnishing/industrial-design"
       }
     ]
   },

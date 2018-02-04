@@ -1,0 +1,38 @@
+{
+  "place": "content.place.madrid",
+  "tags": [
+    "content.tag.shop",
+    "content.tag.target-casa"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90",
+        "http://lorempixel.com/120/90"
+      ]
+    }
+  ]
+}

@@ -109,6 +109,9 @@
         "title": "Locals públics"
       }
     },
+    "luxor":{
+      "title":"Luxor & Margot"
+    },
     "offices": {
       "main.title": "Oficines multinacionals"
     },
@@ -127,7 +130,6 @@
       "llavaneres": "Llavaneres",
       "lleida": "Lleida",
       "madrid": "Madrid",
-      "none": "-",
       "pearson": "Av Pearson (Barcelona)",
       "pedralbes": "Pedralbes (Barcelona)",
       "ramblaCatalunya": "Rambla Catalunya (Barcelona)",
