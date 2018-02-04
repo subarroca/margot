@@ -1,5 +1,14 @@
-$titleFont: 'Roboto Slab', serif;
 $menuFont: 'Roboto Condensed', sans-serif;
+$titleFont: $menuFont;
 $bodyFont: 'Roboto', sans-serif;
 
-$small:0.85em;
+$small:0.8em;
+
+$base: 1em;
+$font-ratio: 1.05;
+$h6-size: $base*$font-ratio;
+$h5-size: $h6-size*$font-ratio;
+$h4-size: $h5-size*$font-ratio;
+$h3-size: $h4-size*$font-ratio;
+$h2-size: $h3-size*$font-ratio;
+$h1-size: $h2-size*$font-ratio;

@@ -84,12 +84,12 @@
       {
         "id": "company",
         "name": "navbar.company",
-        "type": "info"
+        "type": "section"
       },
       {
         "id": "customers",
         "name": "navbar.customers",
-        "type": "info"
+        "type": "section"
       },
       {
         "id": "press",

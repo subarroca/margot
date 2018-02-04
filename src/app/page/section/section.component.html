@@ -1,3 +1,26 @@
-<p>
-  section works!
-</p>
+<aside *ngIf="content?.aside">
+  <h3 *ngIf="content?.aside.title">
+    {{content?.aside.title | translate}}
+  </h3>
+  <div class="text--muted" [innerHtml]="content?.aside?.desc | translate">
+  </div>
+  <ul *ngIf="content?.aside?.list" class="aside__list">
+    <li *ngFor="let item of content.aside.list">
+      <h4>{{item.title | translate}}</h4>
+      <p class="text--muted">{{item.desc | translate}}</p>
+    </li>
+  </ul>
+</aside>
+
+<content>
+  <h1>{{content?.main.title | translate}}</h1>
+  <div class="h3" *ngIf="content?.main.subtitle">{{content?.main.subtitle | translate}}</div>
+  <div class="main__desc text--muted" *ngIf="content?.main.desc" [innerHtml]="content?.main?.desc | translate">
+  </div>
+
+  <div>
+    <app-media-banner *ngFor="let banner of content?.main?.banners" [link]="banner.link" [title]="banner.title" [desc]="banner.desc"
+      [img]="banner.img">
+    </app-media-banner>
+  </div>
+</content>

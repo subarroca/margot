@@ -2,16 +2,12 @@
 
 :host{
   display: block;
-  background: $bg--dark;
+  background: linear-gradient($bg--dark, $bg 50%);
   padding: $grid-gutter;
+  color: $neutral;
+  font: $small $menuFont;
 }
 
 .content{
   display: flex;
-}
-
-.language-selector{
-  button{
-    display: block;
-  }
 }

@@ -1,0 +1,12 @@
+<content>
+  <h1>{{parsedTags }}</h1>
+  <p class="h3">{{content?.place | translate}}</p>
+
+  <div class="holder"
+   *ngFor="let section of content?.sections">
+    <div class="h3">{{section.title | translate}}</div>
+    <app-media-card *ngFor="let img of section.imgs"
+      [img]="img.img">
+    </app-media-card>
+  </div>
+</content>

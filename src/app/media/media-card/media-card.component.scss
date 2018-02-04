@@ -1,0 +1,39 @@
+@import 'src/assets/styles/vars';
+
+:host(){
+  display: block;
+  margin-bottom: $grid-gutter;
+}
+
+a,
+figure{
+  height: 100%;
+}
+
+a{
+  text-decoration: none;
+  display: block;
+}
+
+figure{
+  margin-right: $grid-gutter;
+  background: $bg--dark;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.title,
+.desc {
+  margin: $grid-gutter/2;
+}
+
+.title{
+  font-weight: bold;
+}
+.desc {
+  color: $neutral;
+}
+img{
+  width: 100%;
+}

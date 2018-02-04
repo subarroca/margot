@@ -1,0 +1,26 @@
+@import 'src/assets/styles/vars';
+
+:host(){
+  display: block;
+  margin-bottom: $grid-gutter;
+}
+
+a{
+  text-decoration: none;
+  color: $contrast--text;
+  background: mix($contrast,$bg,90);
+  display: block;
+}
+
+figure{
+  height: 120px;
+  display: flex;
+}
+
+figcaption{
+  padding: $grid-gutter;
+}
+
+h3{
+  font-weight: bold;
+}

@@ -1,4 +1,6 @@
-$bg: #35424a;
 $bg--dark: #1c252b;
-$contrast: #ff004d;
-$white: white;
+$bg: mix(#35424a, $bg--dark);
+$primary: #ff004d;
+$contrast: white;
+$contrast--text: $bg--dark;
+$neutral: mix($contrast, $bg, 50);

@@ -2,14 +2,16 @@
 
 :host{
   display: block;
-  background: $bg--dark;
+  background: linear-gradient($bg 50%, $bg--dark);
   padding: $grid-gutter;
   font: $small $menuFont;
   text-transform: uppercase;
+  line-height: 1.5em;
 }
 
 .holder{
   display: flex;
+  align-items: center;
 }
 
 nav{
@@ -35,8 +37,11 @@ nav{
   z-index: 1;
 }
 
-
 .level--1{
+  a:not(:hover){
+    color: $contrast;
+  }
+
   &:hover{
     width: 2*$menu__item__width;
 
@@ -48,20 +53,41 @@ nav{
 
 .level--2{
   width: $menu__item__width;
-  background: $bg--dark;
+  background: linear-gradient($bg 50%, $bg--dark 130%);
   display: none;
   position: absolute;
   top: 0;
   left: $menu__item__width;
   height: 100%;
+
+  a:not(:hover){
+    color: $neutral;
+  }
 }
 
-a{
-  display: block;
-  color: $white;
-  text-decoration: none;
 
-  &:hover{
-    color: $contrast;
+.logo{
+  height: 92px;
+  margin-right: $grid-gutter*4;
+}
+
+.language-selector{
+  align-self: flex-end;
+  text-align: right;
+  justify-self: flex-end;
+  flex: 1;
+}
+
+.lang{
+  background: transparent;
+  border: 0;
+  font-family: $menuFont;
+  color: $neutral;
+  margin-left: $grid-gutter;
+  display: inline-block;
+
+  &:hover,
+  &.active{
+    color: $primary;
   }
 }

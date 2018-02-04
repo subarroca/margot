@@ -1,16 +1,14 @@
 <div class="content">
-  <div class="contact">
-    <div>{{'footer.street' | translate}}</div>
-    <div>{{'footer.city' | translate}}</div>
-    <div>{{'footer.phone' | translate}}</div>
-    <div>{{'footer.email' | translate}}</div>
-  </div>
+  <address class="contact">
+    <p>
+      {{'footer.street' | translate}}
+      <br /> {{'footer.city' | translate}}
+    </p>
+    <a href="tel:{{'footer.phone' | translate}}">{{'footer.phone' | translate}}</a>
+    <a href="mailto:{{'footer.email' | translate}}">{{'footer.email' | translate}}</a>
+  </address>
 
-  <div class="language-selector">
-    <button *ngFor="let lang of langs$ | async" (click)="changeLang(lang)">{{'langs.'+lang|translate}}</button>
-  </div>
-
-  <div class="contact">
-    <a [routerLink] = "['/contact'] | localize">{{'footer.contact' | translate}}</a>
-  </div>
+  <!-- <div class="contact">
+    <a [routerLink]="['/contact'] | localize">{{'footer.contact' | translate}}</a>
+  </div> -->
 </div>

@@ -1,39 +1,236 @@
 {
-  "ROUTES.contact":"contacte",
-  "ROUTES.category": "c",
-  "ROUTES.section": "s",
-  "ROUTES.gallery": "g",
-  "ROUTES.info": "i",
-  "ROUTES.bespokeDesign": "disseny-a-mida",
+  "ROUTES.bespoke-design": "disseny-a-mida",
   "ROUTES.books": "llibres",
-  "ROUTES.classicFurniture": "mobiliari-classic",
+  "ROUTES.category": "c",
+  "ROUTES.classic-furniture": "mobiliari-classic",
   "ROUTES.company": "companyia",
-  "ROUTES.contemporaryFurniture": "mobiliari-contemporani",
+  "ROUTES.contact": "contacte",
+  "ROUTES.contemporary-furniture": "mobiliari-contemporani",
   "ROUTES.customers": "clients",
   "ROUTES.furnishing": "disseny-mobiliari",
+  "ROUTES.gallery": "g",
   "ROUTES.housing": "habitatges",
-  "ROUTES.industrialDesign": "disseny-industrial",
-  "ROUTES.interiorDesign": "disseny-interiors",
+  "ROUTES.industrial-design": "disseny-industrial",
+  "ROUTES.info": "i",
+  "ROUTES.interior-design": "disseny-interiors",
   "ROUTES.luxor": "luxor",
   "ROUTES.magazines": "revistes",
   "ROUTES.offices": "oficines-multinacionals",
   "ROUTES.press": "premsa",
   "ROUTES.projects": "presentacio-projectes",
-  "ROUTES.publicPlaces": "locals-publics",
+  "ROUTES.public-places": "locals-publics",
+  "ROUTES.section": "s",
   "ROUTES.showroom": "showroom",
   "ROUTES.textile": "textil",
-  "footer": {
-    "street": "Muntaner 414, Ent 2",
-    "city": "08006 Barcelona",
-    "phone": "93 414 50 00",
-    "email": "margot@margotviarnes.com",
-    "contact": "Contact us"
+  "content": {
+    "generic":{
+      "before":"Abans",
+      "after":"Després",
+      "render":"Render"
+    },
+    "clients": {
+      "main": {
+        "desc": "<p>L’estudi de Margot Viarnés treballa espais públics i privats, tant amb empreses com amb clients privats, a nivell nacional i internacional.</p><p>La nostra filosofia en interiorisme és crear espais únics i exclusius d’acord als objectius de cadascun dels nostres clients. El benestar i la qualitat són la nostra prioritat.</p><p>Treballem amb empresaris i directius d’empresa, que poden despreocuparse del projecte i de l’execució de l’obra fins a la seva finalització total. L’estudi de Margot Viarnés tanca els pressupostos i es compromet amb els terminis acordats.Treballem amb empresaris, propietaris de locals comercials, que busquen una millora funcional i estètica que els ajudi a impulsar el seu negoci.</p><p>Treballem amb clients que busquen millorar el seu benestar mitjançant la rehabilitació o decoració del seu habitatge,</p><p>Treballem amb clients estrangers que necessiten reformar o decorar el seu nou espai a Espanya. L’Estudi de Margot Viarnés coordina i lliura tota l’obra acabada sense necessitat que el client estigui instal•lat al país.Si més endavant canvien de residència, l’Estudi coordina el desmuntatge i transport al nou habitatge.</p><p>Margot Viarnés i el seu estudi han realitzat obres fora d’Espanya, en ciutats com Londres, París, Düsseldorf, Colònia, Brussel•les i Lisboa, tant amb l’equip propi com a subcontractat.</p>",
+        "title": "Clients i serveis"
+      }
+    },
+    "company": {
+      "aside": {
+        "estrade": {
+          "desc": "Interiorista. Col·laboracions en alguns projectes. Infografia",
+          "title": "Joan Estradé"
+        },
+        "lane": {
+          "desc": "Coordinadora estudi i fotògrafa",
+          "title": "Lane de Castro"
+        },
+        "margot": {
+          "desc": "Directora creativa i gerent. Dissenyadora industrial i interiorista",
+          "title": "Margot Viarnés"
+        },
+        "mateu": {
+          "desc": "Disseny gràfic i web",
+          "title": "Joan Mateu"
+        },
+        "rodriguez": {
+          "desc": "Arquitecta",
+          "title": "V. De Rodríguez"
+        },
+        "rossend": {
+          "desc": "Interiorista. Col·laboracions en alguns projectes",
+          "title": "Rossend Cortés"
+        },
+        "tere": {
+          "desc": "Interiorista. Coordinadora d'Estudi, Showroom i Botiga",
+          "title": "Tere Guasch"
+        }
+      },
+      "main": {
+        "desc": "<p>Més de 20 anys creant espais únics i dissenyant mobiliari.Margot està reconeguda com una de les 10 millors dissenyadores espanyoles en el disseny de mobiliari, com es mostra en (Mujeres al Proyecto), publicació especial del Ministeri d’Indústria.A nivell internacional ha estat reconeguda entre les 40 dissenyadores de mobles que han marcat la història del disseny a Europa. (Nientedimeno Nothing Less, by Anty Pansera). Les seves cadires i sofàs es poden trobar a tot el món.</p><p>L’Estudi Margot Viarnés ha estat reconegut com un dels 50 estudis d’interiorisme i disseny de més prestigi a Espanya, (Interiorismo Plus)En el seu showroom de Barcelona es poden apreciar alguns dels seus dissenys de mobiliari i sentir així mateix el caràcter i know-how que imprimeix com a dissenyadora d’interiors.</p><p>L’Estudi de Margot Viarnés compta amb un equip de professionals en arquitectura, enginyeria, fusteria industrial, informàtica, electricitat, pintura, ebenisteria, costura, muntatge…, amb el mateix grau de compromís que adquireix Margot en cada projecte i estan coordinats per ella dia a dia.</p>",
+        "subtitle": "Dissenyadora d’interiors i dissenyadora industrial",
+        "title": "Margot Viarnés"
+      }
+    },
+    "furnishing": {
+      "bespoke": {
+        "desc": "Dissenyem un vestit a mida per a la teva llar i la teva empresa",
+        "title": "Exclusiu a mida"
+      },
+      "industrial": {
+        "desc": "Sensibilitat i rigor tècnic en les grans produccions",
+        "title": "Disseny industrial"
+      },
+      "main": {
+        "title": "Disseny de mobiliari"
+      }
+    },
+    "housing": {
+      "main.desc": "Creem i construïm una llar completa o un sol espai fins l’últim detall.",
+      "main.title": "Habitatges"
+    },
+    "interiorDesign": {
+      "aside": {
+        "desc": "<p>Totes les fotografies de projectes d'interiors i artístiques són de:<br/>Lane de Castro: <strong>667 74 92 30</strong><br/>Albert Font: <strong>609 892 382</strong></p><p>Tots els grafismes en projectes d'espais públics són de<br/>Joan Mateu: <strong>678 973 838</strong></p>",
+        "title": "Col·laboracions"
+      },
+      "housing": {
+        "desc": "Creem i construïm habitatges fins al més mínim detall",
+        "title": "Habitatges"
+      },
+      "main": {
+        "title": "Projectes d'interiors"
+      },
+      "offices": {
+        "desc": "Unim el rigor tècnic i la creativitat amb els valors de cada empresa",
+        "title": "Oficines per a multinacionals i stands"
+      },
+      "publicPlaces": {
+        "desc": "Un espai ben dissenyat ajuda a arribar al teu públic",
+        "title": "Locals públics"
+      }
+    },
+    "offices": {
+      "main.title": "Oficines multinacionals"
+    },
+    "place": {
+      "barcelona": "Barcelona",
+      "bilbao": "Bilbao",
+      "bonanova": "Bonanova (Barcelona)",
+      "brussels": "Brussel·les",
+      "cerdanya": "Cerdanya",
+      "chelsea": "Chelsea",
+      "eixample": "Eixample (Barcelona)",
+      "emporda": "Empordà",
+      "francescMacia": "Francesc Macià (Barcelona)",
+      "gracia": "Gràcia (Barcelona)",
+      "lisboa": "Lisboa",
+      "llavaneres": "Llavaneres",
+      "lleida": "Lleida",
+      "madrid": "Madrid",
+      "none": "-",
+      "pearson": "Av Pearson (Barcelona)",
+      "pedralbes": "Pedralbes (Barcelona)",
+      "ramblaCatalunya": "Rambla Catalunya (Barcelona)",
+      "sabadell": "Sabadell",
+      "santCugat": "Sant Cugat",
+      "santGervasi": "Sant Gervasi",
+      "serrano": "Serrano (Madrid)",
+      "sitges": "Sitges",
+      "valldoreix": "Valldoreix",
+      "vilaOlimpica": "Vila Olímpica"
+    },
+    "press": {
+      "aside": {
+        "desc": "<p>Margot Viarnés ha estat seleccionada entre els 40 dissenyadors de mobles al camp de la indústria que han marcat història entre els anys 1945 i 2010 a Europa.</p><p>Edició: NIENTEDIMENO NOTHING LESS edited by anty Pansera with MARIA TERESA Chirico. UMBERTO Allemandi ¬ C. Turin – London – Venècia – New York.</p><p>Les seves obres han estat publicades en Wallspaper, Interni, Arquitectura i Disseny, el suplement d’Avantguarda, Woman, Elle, Yo Dona del diari El Mundo, Experimenta, Casa Viva, Nou Estil …</p>",
+        "title": "Darrer reconeixement professional"
+      },
+      "books": {
+        "desc": "Bibliografia sobre Margot Viarnés",
+        "title": "Llibres"
+      },
+      "magazines": {
+        "desc": "Articles i foto reportatges sobre el treball de Margot Viarnés",
+        "title": "Revistes"
+      },
+      "main": {
+        "title": "Premsa"
+      }
+    },
+    "publicPlaces": {
+      "main.title": "Locals públics"
+    },
+    "showroom": {
+      "classic": {
+        "desc": "Dissenyem un vestit a mida per a la teva llar i la teva empresa",
+        "title": "Moble clàssic"
+      },
+      "contemporary": {
+        "desc": "Sensibilitat i rigor tècnic en les grans produccions",
+        "title": "Moble contemporari"
+      },
+      "main": {
+        "desc": "Amb un tracte personalitzat i privat, projectem rigorosament la seva casa o lloc públic.<br/>Amb l’assistència de Margot, a més del nostre mobiliari exclusiu pot adquirir mobiliari contemporani i clàssic renovat que hem triat per als nostres clients.",
+        "title": "Estudi-Showroom-Botiga"
+      },
+      "textile": {
+        "desc": "Sensibilitat i rigor tècnic en les grans produccions",
+        "title": "Tèxtil"
+      }
+    },
+    "tag": {
+      "aesthetics": "Clínica estètica",
+      "appartment": "Apartament",
+      "bedroom": "Habitació",
+      "boutique": "Boutique",
+      "cafeSaula": "Cafè Saula",
+      "cateringMontserrat": "Càtering Montserrat",
+      "checkpoint": "Checkpoint",
+      "dinning": "Menjador",
+      "dobleD": "Doble D",
+      "duplex": "Dúplex",
+      "estrella": "Estrella",
+      "euroImage": "Euro Image",
+      "flat": "Pis",
+      "grupoDas": "Grupo DAS",
+      "gunniBanos": "Gunni Baños",
+      "gunniCocinas": "Gunni Cocinas",
+      "gunniHogar": "Gunni Hogar",
+      "gunniPoliform": "Gunni Poliform",
+      "hall": "Rebedor",
+      "homeOffice": "Despatx",
+      "house": "Casa",
+      "jeanPierreBua": "Jean Pierre Bua",
+      "kantar": "Kantar",
+      "living": "Sala d'estar",
+      "office": "Oficina",
+      "paularte": "Paularte",
+      "shoeshop": "Sabateria",
+      "shop": "Botiga",
+      "showroom": "Showroom",
+      "stand": "Stand",
+      "studio": "Estudi",
+      "target": "Target"
+    }
   },
+  "footer": {
+    "city": "08006 Barcelona",
+    "contact": "Contact us",
+    "email": "margot@margotviarnes.com",
+    "phone": "+34 93 414 50 00",
+    "street": "Muntaner 414, Ent 2"
+  },
+  "generalMessage": "Web en proves",
   "home": {
     "logoAlt": "Margot Viarnés"
   },
+  "langs": {
+    "ca": "Català",
+    "en": "English",
+    "es": "Castellano",
+    "ru": "Russian",
+    "zh": "Chinese"
+  },
   "navbar": {
-    "logoAlt": "Margot Viarnés",
     "bespokeDesign": "Disseny a mida",
     "books": "Llibres",
     "classicFurniture": "Mobiliari clàssic",
@@ -43,7 +240,8 @@
     "furnishing": "Disseny de mobiliari",
     "housing": "Habitatges",
     "industrialDesign": "Disseny industrial",
-    "interiorDesign": "Disseny d'interiors",
+    "interiorDesign": "Projectes d'interiors",
+    "logoAlt": "Margot Viarnés",
     "luxor": "Luxor & Margot",
     "magazines": "Revistes",
     "offices": "Oficines per a multinacionals",
@@ -52,12 +250,5 @@
     "publicPlaces": "Locals públics",
     "showroom": "Estudi - Showroom - Botiga",
     "textile": "Tèxtil"
-  },
-  "langs":{
-    "ca":"Català",
-    "en":"English",
-    "es":"Castellano",
-    "ru":"Russian",
-    "zh":"Chinese"
   }
 }

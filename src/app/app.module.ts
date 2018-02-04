@@ -17,7 +17,6 @@ import { FooterModule } from './core/footer/footer.module';
 import { NavbarModule } from './core/navbar/navbar.module';
 import { CategoryModule } from './page/category/category.module';
 import { SectionModule } from './page/section/section.module';
-import { InfoModule } from './page/info/info.module';
 import { ContactModule } from './page/contact/contact.module';
 import { GalleryModule } from './page/gallery/gallery.module';
 import { environment } from '../environments/environment';
@@ -26,8 +25,7 @@ import { HomeComponent } from './page/home/home.component';
 import { Location } from '@angular/common';
 import { SectionComponent } from './page/section/section.component';
 import { CategoryComponent } from './page/category/category.component';
-import { InfoComponent } from './page/info/info.component';
-import { GalleryComponent } from './page/gallery/gallery/gallery.component';
+import { GalleryComponent } from './page/gallery/gallery.component';
 import { ContactComponent } from './page/contact/contact.component';
 import { StructureMenuItem } from './core/structure/structure-menu-item';
 import { Router } from '@angular/router';
@@ -55,7 +53,6 @@ import { Router } from '@angular/router';
     HomeModule,
     GalleryModule,
     ContactModule,
-    InfoModule,
     SectionModule,
     CategoryModule,
     NavbarModule,
@@ -72,7 +69,7 @@ import { Router } from '@angular/router';
   ],
   bootstrap: [AppComponent],
   providers: [
-    StructureService,
+    StructureService
     // {
     //   provide: APP_INITIALIZER,
     //   useFactory: loadStructure,
@@ -106,7 +103,6 @@ export function loadStructure(injector: Injector, structureService: StructureSer
 
       structureService
         .menu$
-        .filter(menu => !!menu[0])
         .first()
         .subscribe((menu: StructureMenuItem[][]) => {
           let sections = [].concat(...menu);

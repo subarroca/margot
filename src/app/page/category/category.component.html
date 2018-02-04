@@ -1,3 +1,15 @@
-<p>
-  category works!
-</p>
+<content>
+  <h1>{{content?.main.title | translate}}</h1>
+  <div class="h3" *ngIf="content?.main.subtitle">{{content?.main.subtitle | translate}}</div>
+  <div class="main__desc text--muted" *ngIf="content?.main.desc" [innerHtml]="content?.main?.desc | translate">
+  </div>
+
+  <div class="holder">
+    <app-media-card *ngFor="let gallery of galleries"
+      [link]="gallery.id"
+      [place]="gallery.place"
+      [tags]="gallery.tags"
+      [img]="gallery.img">
+    </app-media-card>
+  </div>
+</content>

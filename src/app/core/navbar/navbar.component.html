@@ -1,11 +1,24 @@
 <div class="content holder">
-  <a [routerLink] = "['/'] | localize"><img src="" [alt]="'navbar.logoAlt' | translate" class="logo"></a>
+  <a [routerLink]="['/'] | localize">
+    <img src="assets/img/margot-logo.svg" [alt]="'navbar.logoAlt' | translate" class="logo">
+  </a>
   <nav *ngFor="let block of menu$ | async; let i = index" class="block block--{{i}}">
     <div *ngFor="let item of block" class="level level--1">
-      <a [routerLink] = "['/',item.type,item.id]  | localize">{{item.name | translate }}</a>
-      <div class="level level--2">
-        <a *ngFor="let child of item.children" [routerLink] = "['/',child.type,child.id] | localize">{{child.name | translate}}</a>
+        <a [routerLink]="['/',item.type,item.id]  | localize">{{item.name | translate }}</a>
+      <div class="level level--2" *ngIf="item.children">
+        <a *ngFor="let child of item.children"  [routerLink]="['/',child.type,child.id] | localize">{{child.name | translate}}</a>
       </div>
     </div>
   </nav>
+
+  <div class="language-selector">
+    <span
+      class="lang click"
+      [class.active]="lang===currentLang" 
+      *ngFor="let lang of langs$ | async"
+      (click)="changeLang(lang)">
+      {{lang}}
+      <!-- {{'langs.'+lang|translate}} -->
+    </span>
+  </div>
 </div>

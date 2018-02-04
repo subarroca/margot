@@ -1,0 +1,30 @@
+{
+  "img": "",
+  "main": {
+    "title": "content.interiorDesign.main.title",
+    "banners": [
+      {
+        "title": "content.interiorDesign.housing.title",
+        "desc": "content.interiorDesign.housing.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "housing"
+      },
+      {
+        "title": "content.interiorDesign.publicPlaces.title",
+        "desc": "content.interiorDesign.publicPlaces.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "public-places"
+      },
+      {
+        "title": "content.interiorDesign.offices.title",
+        "desc": "content.interiorDesign.offices.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "offices"
+      }
+    ]
+  },
+  "aside": {
+    "title": "content.interiorDesign.aside.title",
+    "desc": "content.interiorDesign.aside.desc"
+  }
+}

@@ -17,3 +17,13 @@
   flex: 1;
   display: flex;
 }
+
+.home{
+    background: radial-gradient(circle at center, transparent, rgba($bg--dark, 0.8)), url('/assets/img/home-bg.svg');
+    background-size: 100% 100%, 14px 14px ;
+}
+
+.advise{
+    background: $primary;
+    padding: $grid-gutter;
+}

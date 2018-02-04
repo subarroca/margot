@@ -1,0 +1,21 @@
+{
+  "img": "/assets/img/trees.svg",
+  "main": {
+    "title": "content.furnishing.main.title",
+    "banners": [
+      {
+        "title": "content.furnishing.bespoke.title",
+        "desc": "content.furnishing.bespoke.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "bespoke-design"
+      },
+      {
+        "title": "content.furnishing.industrial.title",
+        "desc": "content.furnishing.industrial.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "industrialDesign"
+      }
+    ]
+  },
+  "aside": {  }
+}

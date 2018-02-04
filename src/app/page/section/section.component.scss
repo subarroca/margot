@@ -1,0 +1,24 @@
+@import 'src/assets/styles/vars';
+
+
+:host{
+  display: flex;
+  // align-items: center;
+  background-repeat: no-repeat;
+  background-position: left center;
+  width: 100%;
+}
+
+.aside__list{
+  li{
+    margin-bottom: $grid-gutter;
+  }
+
+  h4{
+    margin-bottom: 0;
+  }
+}
+
+.main__desc{
+  margin-bottom: $grid-gutter;
+}

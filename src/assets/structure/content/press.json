@@ -1,0 +1,24 @@
+{
+  "img": "",
+  "main": {
+    "title": "content.press.main.title",
+    "banners": [
+      {
+        "title": "content.press.books.title",
+        "desc": "content.press.books.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "books"
+      },
+      {
+        "title": "content.press.magazines.title",
+        "desc": "content.press.magazines.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "magazines"
+      }
+    ]
+  },
+  "aside": {
+    "title": "content.press.aside.title",
+    "desc": "content.press.aside.desc"
+  }
+}

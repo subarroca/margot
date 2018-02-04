@@ -1,0 +1,43 @@
+{
+  "main": {
+    "title": "content.offices.main.title",
+    "galleries": {
+      "offices/kantar-1": {
+        "place": "content.place.barcelona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.kantar"
+        ]
+      },
+      "offices/gunni-kantar-2": {
+        "place": "content.place.lisboa",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.kantar"
+        ]
+      },
+      "offices/grupo-das-1": {
+        "place": "content.place.none",        
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.grupoDas"
+        ]
+      },
+      "offices/checkpoint-1": {
+        "place": "content.place.none",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.checkpoint"
+        ]
+      },
+      "offices/saula-1": {
+        "place": "content.place.barcelona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.stand",
+          "content.tag.cafeSaula"
+        ]
+      }
+    }
+  }
+}

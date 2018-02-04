@@ -1,0 +1,39 @@
+{
+  "main": {
+    "title": "content.company.main.title",
+    "subtitle": "content.company.main.subtitle",
+    "desc": "content.company.main.desc"
+  },
+  "aside": {
+    "list": [
+      {
+        "title": "content.company.aside.margot.title",
+        "desc": "content.company.aside.margot.desc"
+      },
+      {
+        "title": "content.company.aside.tere.title",
+        "desc": "content.company.aside.tere.desc"
+      },
+      {
+        "title": "content.company.aside.lane.title",
+        "desc": "content.company.aside.lane.desc"
+      },
+      {
+        "title": "content.company.aside.rodriguez.title",
+        "desc": "content.company.aside.rodriguez.desc"
+      },
+      {
+        "title": "content.company.aside.estrade.title",
+        "desc": "content.company.aside.estrade.desc"
+      },
+      {
+        "title": "content.company.aside.mateu.title",
+        "desc": "content.company.aside.mateu.desc"
+      },
+      {
+        "title": "content.company.aside.rossend.title",
+        "desc": "content.company.aside.rossend.desc"
+      }
+    ]
+  }
+}

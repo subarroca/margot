@@ -1,9 +1,8 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './page/home/home.component';
-import { GalleryComponent } from './page/gallery/gallery/gallery.component';
+import { GalleryComponent } from './page/gallery/gallery.component';
 import { ContactComponent } from './page/contact/contact.component';
-import { InfoComponent } from './page/info/info.component';
 import { CategoryComponent } from './page/category/category.component';
 import { SectionComponent } from './page/section/section.component';
 
@@ -14,19 +13,19 @@ export const routes: Routes = [
     pathMatch: 'full'
   }, {
     path: 'section/:id',
-    component: SectionComponent
+    component: SectionComponent,
   }, {
     path: 'category/:id',
-    component: CategoryComponent
+    component: CategoryComponent,
+  }, {
+    path: 'gallery/:category/:id',
+    component: GalleryComponent,
   }, {
     path: 'gallery/:id',
-    component: GalleryComponent
+    component: GalleryComponent,
   }, {
     path: 'contact',
-    component: ContactComponent
-  }, {
-    path: 'info/:id',
-    component: InfoComponent
+    component: ContactComponent,
   }, {
     path: '**',
     redirectTo: ''
@@ -39,3 +38,4 @@ export const routes: Routes = [
 //   exports: [RouterModule]
 // })
 // export class AppRoutingModule { }
+

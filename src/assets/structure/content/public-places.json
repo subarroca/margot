@@ -1,0 +1,96 @@
+{
+  "main": {
+    "title": "content.publicPlaces.main.title",
+    "galleries": {
+      "public-places/jean-pierre-bua-1": {
+        "place": "content.place.barcelona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.jeanPierreBua"
+        ]
+      },
+      "public-places/gunni-poliform-1": {
+        "place": "content.place.madrid",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.gunniPoliform"
+        ]
+      },
+      "public-places/gunni-banos-1": {
+        "place": "content.place.madrid",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.gunniBanos"
+        ]
+      },
+      "public-places/gunni-hogar-1": {
+        "place": "content.place.madrid",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.gunniHogar"
+        ]
+      },
+      "public-places/gunni-cocinas-1": {
+        "place": "content.place.madrid",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.gunniCocinas"
+        ]
+      },
+      "public-places/euroImage-1": {
+        "place": "content.place.brussels",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.showroom",
+          "content.tag.euroImage"
+        ]
+      },
+      "public-places/paularte-1": {
+        "place": "content.place.portugal",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.showroom",
+          "content.tag.paularte"
+        ]
+      },
+      "public-places/clinica-estetica-1": {
+        "place": "content.place.barcelona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.aesthetics"
+        ]
+      },
+      "public-places/catering-montserrat-1": {
+        "place": "content.place.girona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.cateringMontserrat"
+        ]
+      },
+      "public-places/target-casa-1": {
+        "place": "content.place.madrid",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.shop",
+          "content.tag.target-casa"
+        ]
+      },
+      "public-places/estrella-1": {
+        "place": "content.place.barcelona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.shoeshop",
+          "content.tag.estrella"
+        ]
+      },
+      "public-places/doble-d-1": {
+        "place": "content.place.girona",
+        "img": "http://lorempixel.com/120/90",
+        "tags": [
+          "content.tag.boutique",
+          "content.tag.dobleD"
+        ]
+      }
+    }
+  }
+}

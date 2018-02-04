@@ -1,0 +1,19 @@
+<!-- This shoul -->
+<a [routerLink]="['/g/' + link] | localize"
+  *ngIf="link">
+  <figure class="hover hover--bg--dark">
+    <figcaption>
+      <p class="title" *ngIf = "parsedTags">{{parsedTags }}</p>
+      <p class="desc" *ngIf = "place">{{place | translate}}</p>
+    </figcaption>
+    <img [src]="img" [alt]="parsedTags+'('+(place | translate)+')'">
+  </figure>
+</a>
+
+<figure class="hover hover--bg--dark" *ngIf="!link">
+  <figcaption>
+    <p class="title" *ngIf="parsedTags">{{parsedTags }}</p>
+    <p class="desc" *ngIf="place">{{place | translate}}</p>
+  </figcaption>
+  <img [src]="img" [alt]="parsedTags+'('+(place | translate)+')'">
+</figure>

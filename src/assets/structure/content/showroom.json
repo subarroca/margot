@@ -1,0 +1,43 @@
+{
+  "img": "dots.svg",
+  "main": {
+    "title": "content.showroom.main.title",
+    "desc": "content.showroom.main.desc",
+    "banners": [
+      {
+        "title": "content.showroom.classic.title",
+        "desc": "content.showroom.classic.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "classic-furniture"
+      },
+      {
+        "title": "content.showroom.contemporary.title",
+        "desc": "content.showroom.contemporary.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "contemporary-furniture"
+      },
+      {
+        "title": "content.showroom.textile.title",
+        "desc": "content.showroom.textile.desc",
+        "img": "http://lorempixel.com/120/90",
+        "link": "textile"
+      }
+    ]
+  },
+  "aside": {
+    "gallery": [
+      {
+        "url":"http://lorempixel.com/120/90"
+      },
+      {
+        "url": "http://lorempixel.com/120/90"
+      },
+      {
+        "url": "http://lorempixel.com/120/90"
+      },
+      {
+        "url": "http://lorempixel.com/120/90"
+      }
+    ]
+  }
+}

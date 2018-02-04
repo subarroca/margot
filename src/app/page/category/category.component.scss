@@ -1,0 +1,15 @@
+@import 'src/assets/styles/vars';
+
+:host(){
+  width: 100%;
+}
+
+.holder{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: $grid-gutter;
+}
+
+app-media-card{
+  flex: 0 33.33%;
+}
