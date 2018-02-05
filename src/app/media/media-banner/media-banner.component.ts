@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Input } from '@angular/core';
 import { StructureService } from '../../core/structure/structure.service';
+import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-media-banner',
@@ -12,6 +13,8 @@ export class MediaBannerComponent implements OnInit {
   @Input() desc: string;
   @Input() img: string;
   @Input() link: string;
+
+  path: string = environment.imageUrl;
 
 
   constructor(

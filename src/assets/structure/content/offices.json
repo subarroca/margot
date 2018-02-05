@@ -4,35 +4,35 @@
     "galleries": {
       "offices/kantar-1": {
         "place": "content.place.barcelona",
-        "img": "http://lorempixel.com/120/90",
+        "img": "offices/kantar-1/4.jpg",
         "tags": [
           "content.tag.kantar"
         ]
       },
-      "offices/gunni-kantar-2": {
+      "offices/kantar-2": {
         "place": "content.place.lisboa",
-        "img": "http://lorempixel.com/120/90",
+        "img": "offices/kantar-2/1.jpg",
         "tags": [
           "content.tag.kantar"
         ]
       },
       "offices/grupo-das-1": {
         "place": "",        
-        "img": "http://lorempixel.com/120/90",
+        "img": "offices/grupo-das-1/2.jpg",
         "tags": [
           "content.tag.grupoDas"
         ]
       },
       "offices/checkpoint-1": {
         "place": "",
-        "img": "http://lorempixel.com/120/90",
+        "img": "offices/checkpoint-1/2.jpg",
         "tags": [
           "content.tag.checkpoint"
         ]
       },
       "offices/saula-1": {
         "place": "content.place.barcelona",
-        "img": "http://lorempixel.com/120/90",
+        "img": "offices/saula-1/1.jpg",
         "tags": [
           "content.tag.stand",
           "content.tag.cafeSaula"

@@ -1,6 +1,6 @@
 <a [routerLink]="route | async | localize">
   <figure class="hover hover--contrast">
-    <img [src]="img" [alt]="title | translate">
+    <img [src]="path+img" [alt]="title | translate">
     <figcaption>
       <h3 class="title">{{title | translate}}</h3>
       <p class="desc">{{desc | translate}}</p>

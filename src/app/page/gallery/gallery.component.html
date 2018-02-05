@@ -6,7 +6,7 @@
    *ngFor="let section of content?.sections">
     <div class="h3">{{section.title | translate}}</div>
     <app-media-card *ngFor="let img of section.imgs"
-      [img]="img.img">
+      [img]="img">
     </app-media-card>
   </div>
 </content>

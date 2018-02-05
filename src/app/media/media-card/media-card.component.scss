@@ -36,4 +36,6 @@ figure{
 }
 img{
   width: 100%;
+  height: var(--img-max-height);
+  object-fit: cover;
 }

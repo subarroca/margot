@@ -7,5 +7,6 @@ export const environment = {
   production: false,
   mainLang: 'en',
   i18nUrl: '/assets/i18n/',
-  structureUrl: '/assets/structure'
+  structureUrl: '/assets/structure',
+  imageUrl: '/assets/img/'
 };
