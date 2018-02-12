@@ -7,30 +7,19 @@
     {
       "title": "",
       "imgs": [
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90"
+        "housing/gracia-2/1.jpg",
+        "housing/gracia-2/2.jpg",
+        "housing/gracia-2/3.jpg",
+        "housing/gracia-2/4.jpg",
+        "housing/gracia-2/5.jpg",
+        "housing/gracia-2/6.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.before",
+      "imgs": [
+        "housing/gracia-2/7.jpg",
+        "housing/gracia-2/8.jpg"
       ]
     }
   ]

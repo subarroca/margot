@@ -1,0 +1,33 @@
+{
+  "place": "content.place.ramblaCatalunya",
+  "tags": [
+    "content.tag.house"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "housing/rambla-catalunya-1/1.jpg",
+        "housing/rambla-catalunya-1/2.jpg",
+        "housing/rambla-catalunya-1/3.jpg",
+        "housing/rambla-catalunya-1/4.jpg",
+        "housing/rambla-catalunya-1/5.jpg",
+        "housing/rambla-catalunya-1/6.jpg",
+        "housing/rambla-catalunya-1/7.jpg",
+        "housing/rambla-catalunya-1/8.jpg",
+        "housing/rambla-catalunya-1/9.jpg",
+        "housing/rambla-catalunya-1/10.jpg",
+        "housing/rambla-catalunya-1/11.jpg",
+        "housing/rambla-catalunya-1/12.jpg",
+        "housing/rambla-catalunya-1/13.jpg",
+        "housing/rambla-catalunya-1/14.jpg",
+        "housing/rambla-catalunya-1/15.jpg",
+        "housing/rambla-catalunya-1/16.jpg",
+        "housing/rambla-catalunya-1/17.jpg",
+        "housing/rambla-catalunya-1/18.jpg",
+        "housing/rambla-catalunya-1/19.jpg",
+        "housing/rambla-catalunya-1/20.jpg"
+      ]
+    }
+  ]
+}

@@ -41,7 +41,9 @@ nav{
   a:not(:hover){
     color: $contrast;
   }
+}
 
+.level--expandable{
   &:hover{
     width: 2*$menu__item__width;
 

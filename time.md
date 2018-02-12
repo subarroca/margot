@@ -6,3 +6,5 @@ tele4 4
 dissabte1 3
 diumenge1 4
 dilluns1 1.5
+diumenge 2
+dilluns 6

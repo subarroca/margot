@@ -3,7 +3,8 @@
     <img src="assets/img/margot-logo.svg" [alt]="'navbar.logoAlt' | translate" class="logo">
   </a>
   <nav *ngFor="let block of menu$ | async; let i = index" class="block block--{{i}}">
-    <div *ngFor="let item of block" class="level level--1">
+    <div *ngFor="let item of block" class="level level--1"
+    [class.level--expandable] = "item.children">
         <a [routerLink]="['/',item.type,item.id]  | localize">{{item.name | translate }}</a>
       <div class="level level--2" *ngIf="item.children">
         <a *ngFor="let child of item.children"  [routerLink]="getRoute(child) | localize">{{child.name | translate}}</a>
