@@ -1,32 +1,18 @@
 {
   "main": {
-    "title": "content.housing.main.title",
-    "desc": "content.housing.main.desc",
+    "title": "content.projects.main.title",
+    "desc": "content.projects.main.desc",
     "galleries": {
-      "projects/sabadell-1": {
-        "place": "content.place.sabadell",
-        "img": "http://lorempixel.com/120/90",
-        "tags": [
-          "content.tag.house"
-        ]
-      },
-      "projects/gracia-1": {
-        "place": "content.place.gracia",
-        "img": "http://lorempixel.com/120/90",
-        "tags": [
-          "content.tag.flat"
-        ]
-      },
       "projects/eixample-1": {
         "place": "content.place.eixample",
-        "img": "http://lorempixel.com/120/90",
+        "img": "projects/eixample-1/r2.jpg",
         "tags": [
           "content.tag.flat"
         ]
       },
       "projects/barcelona-1": {
         "place": "content.place.barcelona",
-        "img": "http://lorempixel.com/120/90",
+        "img": "projects/barcelona-1/a1.jpg",
         "tags": [
           "content.tag.hall",
           "content.tag.living",
@@ -36,17 +22,31 @@
       },
       "projects/rambla-catalunya-1": {
         "place": "content.place.ramblaCatalunya",
-        "img": "http://lorempixel.com/120/90",
+        "img": "projects/rambla-catalunya-1/a1.jpg",
         "tags": [
           "content.tag.flat"
         ]
       },
       "projects/barcelona-2": {
         "place": "content.place.barcelona",
-        "img": "http://lorempixel.com/120/90",
+        "img": "projects/barcelona-2/r1.jpg",
         "tags": [
           "content.tag.office",
           "content.tag.showroom"
+        ]
+      },
+      "projects/sabadell-1": {
+        "place": "content.place.sabadell",
+        "img": "projects/sabadell-1/r1.jpg",
+        "tags": [
+          "content.tag.house"
+        ]
+      },
+      "projects/gracia-1": {
+        "place": "content.place.gracia",
+        "img": "projects/gracia-1/r8.jpg",
+        "tags": [
+          "content.tag.flat"
         ]
       }
     }

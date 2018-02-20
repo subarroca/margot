@@ -3,34 +3,39 @@
   "tags": [
     "content.tag.flat"
   ],
+  "desc": "content.projects.eixample1.desc",
   "sections": [
     {
-      "title": "",
+      "title": "content.generic.render",
       "imgs": [
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90"
+        "projects/eixample-1/r1.jpg",
+        "projects/eixample-1/r2.jpg",
+        "projects/eixample-1/r3.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.plans",
+      "imgs": [
+        "projects/eixample-1/p1.jpg",
+        "projects/eixample-1/p2.jpg",
+        "projects/eixample-1/p3.jpg",
+        "projects/eixample-1/p4.jpg",
+        "projects/eixample-1/p5.jpg",
+        "projects/eixample-1/p6.jpg",
+        "projects/eixample-1/p7.jpg",
+        "projects/eixample-1/p8.jpg",
+        "projects/eixample-1/p9.jpg",
+        "projects/eixample-1/p10.jpg",
+        "projects/eixample-1/p11.jpg",
+        "projects/eixample-1/p12.jpg",
+        "projects/eixample-1/p13.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.before",
+      "imgs": [
+        "projects/eixample-1/b1.jpg",
+        "projects/eixample-1/b2.jpg"
       ]
     }
   ]

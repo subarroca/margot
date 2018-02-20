@@ -7,4 +7,10 @@ dissabte1 3
 diumenge1 4
 dilluns1 1.5
 diumenge 2
-dilluns 6
+dilluns 4
+dijous 1.5
+diumenge 0.75
+
+----
+37.75
+----

@@ -1,37 +1,38 @@
 {
   "place": "content.place.barcelona",
   "tags": [
-    "content.tag.office",
-    "content.tag.showroom"
+    "content.tag.hall",
+    "content.tag.living",
+    "content.tag.dinning",
+    "content.tag.bedroom"
   ],
+  "desc": "content.projects.barcelona2.desc",
   "sections": [
     {
-      "title": "",
+      "title": "content.generic.render",
       "imgs": [
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90"
+        "projects/barcelona-2/r1.jpg",
+        "projects/barcelona-2/r2.jpg",
+        "projects/barcelona-2/r3.jpg",
+        "projects/barcelona-2/r4.jpg",
+        "projects/barcelona-2/r5.jpg",
+        "projects/barcelona-2/r6.jpg",
+        "projects/barcelona-2/r7.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.plans",
+      "imgs": [
+        "projects/barcelona-2/p1.jpg",
+        "projects/barcelona-2/p2.jpg",
+        "projects/barcelona-2/p3.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.before",
+      "imgs": [
+        "projects/barcelona-2/b1.jpg",
+        "projects/barcelona-2/b2.jpg"
       ]
     }
   ]

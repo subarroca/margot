@@ -2,6 +2,8 @@
   <h1>{{parsedTags }}</h1>
   <p class="h3">{{content?.place | translate}}</p>
 
+  <p class="main__desc text--muted">{{content?.desc | translate}}</p>
+
   <div
    *ngFor="let section of content?.sections">
     <div class="h3">{{section.title | translate}}</div>
@@ -11,4 +13,8 @@
       </app-media-card>
     </div>
   </div>
+
+  <img
+    *ngIf="content?.logo"
+    [src]="content?.logo.img" [alt]="content?.logo.alt | translate">
 </content>

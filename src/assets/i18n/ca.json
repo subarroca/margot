@@ -25,8 +25,9 @@
   "content": {
     "generic":{
       "before":"Abans",
-      "after":"Després",
-      "render":"Render"
+      "after":"Obra finalitzada",
+      "render": "Render",
+      "plans": "Plànols"
     },
     "clients": {
       "main": {
@@ -110,7 +111,9 @@
       }
     },
     "luxor":{
-      "title":"Luxor & Margot"
+      "title":"Luxor & Margot",
+      "desc":"Dissenyem espais i mobles exclusius integrant domòtica, so, imatge (TV, monitors), altaveus, personalitzat segons les necessitats i pressupost de cada client.",
+      "logo.alt":"Luxor cinema"
     },
     "offices": {
       "main.title": "Oficines multinacionals"
@@ -159,6 +162,18 @@
       "main": {
         "title": "Premsa"
       }
+    },
+    "projects":{
+      "main":{
+        "title":"Presentació dels nostres projectes",
+        "desc":"Dissenyem a Margot Viarnés el seu habitatge o espai públic, pot construir-ho i decorar-ho amb nosaltres, supervisat per Margot Viarnés fins a l’últim detall, o pot adquirir el projecte i realitzar-ho vostè."
+      },
+      "barcelona1.desc":"",
+      "barcelona2.desc":"Margot Viarnés & Facility Project",
+      "sabadell1.desc":"en col·laboració amb Joan Estradé – Interiorista",
+      "gracia1.desc":"",
+      "eixample1.desc":"",
+      "ramblaCatalunya1.desc":""
     },
     "publicPlaces": {
       "main.title": "Locals públics"

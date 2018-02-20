@@ -1,36 +1,49 @@
 {
   "place": "content.place.sabadell",
   "tags": [
-    "content.tag.house"
+    "content.tag.flat"
   ],
+  "desc": "content.projects.sabadell1.desc",
   "sections": [
     {
-      "title": "",
+      "title": "content.generic.render",
       "imgs": [
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90",
-        "http://lorempixel.com/120/90"
+        "projects/sabadell-1/r1.jpg",
+        "projects/sabadell-1/r2.jpg",
+        "projects/sabadell-1/r3.jpg",
+        "projects/sabadell-1/r4.jpg",
+        "projects/sabadell-1/r5.jpg",
+        "projects/sabadell-1/r6.jpg",
+        "projects/sabadell-1/r7.jpg",
+        "projects/sabadell-1/r8.jpg",
+        "projects/sabadell-1/r9.jpg",
+        "projects/sabadell-1/r10.jpg",
+        "projects/sabadell-1/r11.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.plans",
+      "imgs": [
+        "projects/sabadell-1/p1.jpg",
+        "projects/sabadell-1/p2.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.after",
+      "imgs": [
+        "projects/sabadell-1/a1.jpg",
+        "projects/sabadell-1/a2.jpg",
+        "projects/sabadell-1/a3.jpg",
+        "projects/sabadell-1/a4.jpg",
+        "projects/sabadell-1/a5.jpg",
+        "projects/sabadell-1/a6.jpg",
+        "projects/sabadell-1/a7.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.before",
+      "imgs": [
+        "projects/sabadell-1/b1.jpg"
       ]
     }
   ]
