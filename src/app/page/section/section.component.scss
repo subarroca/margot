@@ -6,7 +6,22 @@
   // align-items: center;
   background-repeat: no-repeat;
   background-position: left center;
+  // background-size: 50% 50%;
   width: 100%;
+}
+
+content{
+  flex-direction: column;
+}
+
+.aside-holder{
+  display: grid;
+  grid-gap: $grid-gutter;
+  grid-template-columns: minmax(200px, 1fr) minmax(200px, 1fr);
+
+  img{
+    max-width: 100%;
+  }
 }
 
 .aside__list{
@@ -21,4 +36,10 @@
 
 .main__desc{
   margin-bottom: $grid-gutter;
+}
+
+.aside__gallery{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 100px;
 }

@@ -26,18 +26,18 @@
   },
   "aside": {
     "gallery": [
-      {
-        "url":"http://lorempixel.com/120/90"
-      },
-      {
-        "url": "http://lorempixel.com/120/90"
-      },
-      {
-        "url": "http://lorempixel.com/120/90"
-      },
-      {
-        "url": "http://lorempixel.com/120/90"
-      }
+      "headquarter/1.jpg",
+      "headquarter/2.jpg",
+      "headquarter/3.jpg",
+      "headquarter/4.jpg",
+      "headquarter/5.jpg",
+      "headquarter/6.jpg",
+      "headquarter/7.jpg",
+      "headquarter/8.jpg",
+      "headquarter/9.jpg",
+      "headquarter/10.jpg",
+      "headquarter/11.jpg",
+      "headquarter/12.jpg"
     ]
   }
 }

@@ -19,7 +19,9 @@ body{
 .content{
   max-width: 1000px;
   width: 100%;
-  margin: auto;
+  margin: $grid-gutter auto;
+  flex: 1;
+  display: flex;
 }
 
 

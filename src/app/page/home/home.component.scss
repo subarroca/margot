@@ -2,8 +2,18 @@
 
 
 :host{
+    flex: 1;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    background: radial-gradient(circle at center, transparent, rgba($bg--dark, 0.8)), url('/assets/img/home-bg.svg');
+    background-size: 100% 100%, 14px 14px ;
+}
+
+.content{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
 }
