@@ -23,15 +23,10 @@
   "ROUTES.showroom": "showroom",
   "ROUTES.textile": "textil",
   "content": {
-    "classicFurniture.title":"Mobiliari clàssic",
-    "contemporaryFurniture.title":"Mobiliari contemporani",
-    "textile.title":"Tèxtil",
-    "generic":{
-      "before":"Abans",
-      "after":"Obra finalitzada",
-      "render": "Render",
-      "plans": "Plànols"
+    "bespokeDesign": {
+      "title": "Disseny a mida"
     },
+    "classicFurniture.title": "Mobiliari clàssic",
     "clients": {
       "main": {
         "desc": "<p>L’estudi de Margot Viarnés treballa espais públics i privats, tant amb empreses com amb clients privats, a nivell nacional i internacional.</p><p>La nostra filosofia en interiorisme és crear espais únics i exclusius d’acord als objectius de cadascun dels nostres clients. El benestar i la qualitat són la nostra prioritat.</p><p>Treballem amb empresaris i directius d’empresa, que poden despreocuparse del projecte i de l’execució de l’obra fins a la seva finalització total. L’estudi de Margot Viarnés tanca els pressupostos i es compromet amb els terminis acordats.Treballem amb empresaris, propietaris de locals comercials, que busquen una millora funcional i estètica que els ajudi a impulsar el seu negoci.</p><p>Treballem amb clients que busquen millorar el seu benestar mitjançant la rehabilitació o decoració del seu habitatge,</p><p>Treballem amb clients estrangers que necessiten reformar o decorar el seu nou espai a Espanya. L’Estudi de Margot Viarnés coordina i lliura tota l’obra acabada sense necessitat que el client estigui instal•lat al país.Si més endavant canvien de residència, l’Estudi coordina el desmuntatge i transport al nou habitatge.</p><p>Margot Viarnés i el seu estudi han realitzat obres fora d’Espanya, en ciutats com Londres, París, Düsseldorf, Colònia, Brussel•les i Lisboa, tant amb l’equip propi com a subcontractat.</p>",
@@ -75,6 +70,7 @@
         "title": "Margot Viarnés"
       }
     },
+    "contemporaryFurniture.title": "Mobiliari contemporani",
     "furnishing": {
       "bespoke": {
         "desc": "Dissenyem un vestit a mida per a la teva llar i la teva empresa",
@@ -88,12 +84,21 @@
         "title": "Disseny de mobiliari"
       }
     },
+    "generic": {
+      "after": "Obra finalitzada",
+      "before": "Abans",
+      "plans": "Plànols",
+      "render": "Render"
+    },
     "housing": {
       "main.desc": "Creem i construïm una llar completa o un sol espai fins l’últim detall.",
       "main.title": "Habitatges"
     },
-    "bespokeDesign": {
-      "title": "Disseny a mida"
+    "industrialDesign": {
+      "main": {
+        "desc": "",
+        "title": "Disseny industrial"
+      }
     },
     "interiorDesign": {
       "aside": {
@@ -116,10 +121,10 @@
         "title": "Locals públics"
       }
     },
-    "luxor":{
-      "title":"Luxor & Margot",
-      "desc":"Dissenyem espais i mobles exclusius integrant domòtica, so, imatge (TV, monitors), altaveus, personalitzat segons les necessitats i pressupost de cada client.",
-      "logo.alt":"Luxor cinema"
+    "luxor": {
+      "desc": "Dissenyem espais i mobles exclusius integrant domòtica, so, imatge (TV, monitors), altaveus, personalitzat segons les necessitats i pressupost de cada client.",
+      "logo.alt": "Luxor cinema",
+      "title": "Luxor & Margot"
     },
     "offices": {
       "main.title": "Oficines multinacionals"
@@ -169,17 +174,17 @@
         "title": "Premsa"
       }
     },
-    "projects":{
-      "main":{
-        "title":"Presentació dels nostres projectes",
-        "desc":"Dissenyem a Margot Viarnés el seu habitatge o espai públic, pot construir-ho i decorar-ho amb nosaltres, supervisat per Margot Viarnés fins a l’últim detall, o pot adquirir el projecte i realitzar-ho vostè."
+    "projects": {
+      "barcelona1.desc": "",
+      "barcelona2.desc": "Margot Viarnés & Facility Project",
+      "eixample1.desc": "",
+      "gracia1.desc": "",
+      "main": {
+        "desc": "Dissenyem a Margot Viarnés el seu habitatge o espai públic, pot construir-ho i decorar-ho amb nosaltres, supervisat per Margot Viarnés fins a l’últim detall, o pot adquirir el projecte i realitzar-ho vostè.",
+        "title": "Presentació dels nostres projectes"
       },
-      "barcelona1.desc":"",
-      "barcelona2.desc":"Margot Viarnés & Facility Project",
-      "sabadell1.desc":"en col·laboració amb Joan Estradé – Interiorista",
-      "gracia1.desc":"",
-      "eixample1.desc":"",
-      "ramblaCatalunya1.desc":""
+      "ramblaCatalunya1.desc": "",
+      "sabadell1.desc": "en col·laboració amb Joan Estradé – Interiorista"
     },
     "publicPlaces": {
       "main.title": "Locals públics"
@@ -202,65 +207,39 @@
         "title": "Tèxtil"
       }
     },
-    "industrialDesign":{
-      "main":{
-        "title":"Disseny industrial",
-        "desc":""
-      }
-    }, 
     "tag": {
-      "displays":"Aparadors",
-      "ag":"Col·lecció AG",
-      "arts":"Arts",
-      "andreuWorld":"Andreu World",
-      "yume":"Yume",
-      "romeo":"Romeo",
-      "sau":"Sau",
-      "silver":"Silver",
-      "titanium":"Titanium",
-      "xlms":"XLMS",
-      "kubica":"Kubica",
-      "sixties":"Sixties",
-      "celda":"Celda",
-      "sabana":"Sabana",
-      "concepta":"Concepta",
-      "arwen":"Col·lecció Arwen",
-      "concisa":"Col·lecció Concisa",
-      "crisis":"Col·lecció Crisis",
-      "dorsus":"Col·lecció Dorsus",
-      "mai":"Col·lecció Mai",
-      "margot":"Col·lecció Margot",
-      "melanie":"Col·lecció Melanie",
-      "scarlett":"Col·lecció Scarlett",
-      "doce":"DO+CE",
-      "centerTables":"Centres",
-      "stands":"Peanes",
-      "chairs":"Cadires",
-      "temasV":"Tema V",
-      "altaCostura":"Alta costura",
-      "atelier":"Atelier",
-      "begum":"Begum",
-      "cachemira":"Cachemira",
-      "glasse":"Glasse",
-      "oman":"Oman",
-      "shelves":"Prestatges",
-      "sinks":"Piques",
       "aesthetics": "Clínica estètica",
+      "ag": "Col·lecció AG",
+      "altaCostura": "Alta costura",
+      "andreuWorld": "Andreu World",
       "appartment": "Apartament",
+      "arts": "Arts",
+      "arwen": "Col·lecció Arwen",
+      "atelier": "Atelier",
       "bedroom": "Habitació",
+      "beds": "Llits",
+      "begum": "Begum",
       "boutique": "Boutique",
+      "cachemira": "Cachemira",
       "cafeSaula": "Cafè Saula",
       "cateringMontserrat": "Càtering Montserrat",
+      "celda": "Celda",
+      "centerTables": "Centres",
+      "chairs": "Cadires",
       "checkpoint": "Checkpoint",
+      "concepta": "Concepta",
+      "concisa": "Col·lecció Concisa",
+      "crisis": "Col·lecció Crisis",
       "dinning": "Menjador",
-      "tables": "Taules",
-      "beds": "Llits",
-      "mirrors": "Miralls",
+      "displays": "Aparadors",
       "dobleD": "Doble D",
+      "doce": "DO+CE",
+      "dorsus": "Col·lecció Dorsus",
       "duplex": "Dúplex",
       "estrella": "Estrella",
       "euroImage": "Euro Image",
       "flat": "Pis",
+      "glasse": "Glasse",
       "grupoDas": "Grupo DAS",
       "gunniBanos": "Gunni Baños",
       "gunniCocinas": "Gunni Cocinas",
@@ -271,16 +250,37 @@
       "house": "Casa",
       "jeanPierreBua": "Jean Pierre Bua",
       "kantar": "Kantar",
+      "kubica": "Kubica",
       "living": "Sala d'estar",
+      "mai": "Col·lecció Mai",
+      "margot": "Col·lecció Margot",
+      "melanie": "Col·lecció Melanie",
+      "mirrors": "Miralls",
       "office": "Oficina",
+      "oman": "Oman",
       "paularte": "Paularte",
+      "romeo": "Romeo",
+      "sabana": "Sabana",
+      "sau": "Sau",
+      "scarlett": "Col·lecció Scarlett",
+      "shelves": "Prestatges",
       "shoeshop": "Sabateria",
       "shop": "Botiga",
       "showroom": "Showroom",
+      "silver": "Silver",
+      "sinks": "Piques",
+      "sixties": "Sixties",
       "stand": "Stand",
+      "stands": "Peanes",
       "studio": "Estudi",
-      "target": "Target"
-    }
+      "tables": "Taules",
+      "target": "Target",
+      "temasV": "Tema V",
+      "titanium": "Titanium",
+      "xlms": "XLMS",
+      "yume": "Yume"
+    },
+    "textile.title": "Tèxtil"
   },
   "footer": {
     "city": "08006 Barcelona",
