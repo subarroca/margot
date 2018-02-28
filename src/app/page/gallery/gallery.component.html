@@ -14,7 +14,9 @@
     </div>
   </div>
 
-  <img
+  <a
     *ngIf="content?.logo"
-    [src]="content?.logo.img" [alt]="content?.logo.alt | translate">
+    [href]="content?.logo.url">
+    <img [src]="content?.logo.img" [alt]="content?.logo.alt | translate">
+  </a>
 </content>

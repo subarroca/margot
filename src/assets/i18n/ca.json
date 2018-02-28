@@ -23,6 +23,9 @@
   "ROUTES.showroom": "showroom",
   "ROUTES.textile": "textil",
   "content": {
+    "classicFurniture.title":"Mobiliari clàssic",
+    "contemporaryFurniture.title":"Mobiliari contemporani",
+    "textile.title":"Tèxtil",
     "generic":{
       "before":"Abans",
       "after":"Obra finalitzada",
@@ -88,6 +91,9 @@
     "housing": {
       "main.desc": "Creem i construïm una llar completa o un sol espai fins l’últim detall.",
       "main.title": "Habitatges"
+    },
+    "bespokeDesign": {
+      "title": "Disseny a mida"
     },
     "interiorDesign": {
       "aside": {
@@ -196,7 +202,49 @@
         "title": "Tèxtil"
       }
     },
+    "industrialDesign":{
+      "main":{
+        "title":"Disseny industrial",
+        "desc":""
+      }
+    }, 
     "tag": {
+      "displays":"Aparadors",
+      "ag":"Col·lecció AG",
+      "arts":"Arts",
+      "andreuWorld":"Andreu World",
+      "yume":"Yume",
+      "romeo":"Romeo",
+      "sau":"Sau",
+      "silver":"Silver",
+      "titanium":"Titanium",
+      "xlms":"XLMS",
+      "kubica":"Kubica",
+      "sixties":"Sixties",
+      "celda":"Celda",
+      "sabana":"Sabana",
+      "concepta":"Concepta",
+      "arwen":"Col·lecció Arwen",
+      "concisa":"Col·lecció Concisa",
+      "crisis":"Col·lecció Crisis",
+      "dorsus":"Col·lecció Dorsus",
+      "mai":"Col·lecció Mai",
+      "margot":"Col·lecció Margot",
+      "melanie":"Col·lecció Melanie",
+      "scarlett":"Col·lecció Scarlett",
+      "doce":"DO+CE",
+      "centerTables":"Centres",
+      "stands":"Peanes",
+      "chairs":"Cadires",
+      "temasV":"Tema V",
+      "altaCostura":"Alta costura",
+      "atelier":"Atelier",
+      "begum":"Begum",
+      "cachemira":"Cachemira",
+      "glasse":"Glasse",
+      "oman":"Oman",
+      "shelves":"Prestatges",
+      "sinks":"Piques",
       "aesthetics": "Clínica estètica",
       "appartment": "Apartament",
       "bedroom": "Habitació",
@@ -205,6 +253,9 @@
       "cateringMontserrat": "Càtering Montserrat",
       "checkpoint": "Checkpoint",
       "dinning": "Menjador",
+      "tables": "Taules",
+      "beds": "Llits",
+      "mirrors": "Miralls",
       "dobleD": "Doble D",
       "duplex": "Dúplex",
       "estrella": "Estrella",

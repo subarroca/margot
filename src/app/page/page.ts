@@ -18,6 +18,8 @@ export class PageComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit() {
+    console.log('hola');
+
     this.params$$ = this.route.params
       .subscribe(params =>
         this.structureService.loadPageContent(params.category, params.id)

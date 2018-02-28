@@ -36,12 +36,12 @@
         "type": "section",
         "children": [
           {
-            "id": "furnishing/bespoke-design",
+            "id": "bespoke-design",
             "name": "navbar.bespokeDesign",
-            "type": "category"
+            "type": "gallery"
           },
           {
-            "id": "furnishing/industrial-design",
+            "id": "industrial-design",
             "name": "navbar.industrialDesign",
             "type": "category"
           }

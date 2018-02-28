@@ -6,7 +6,8 @@
   "desc":"content.luxor.desc",
   "logo":{
     "img":"luxor/logo-white.png",
-    "alt":"content.luxor.logo.alt"
+    "alt":"content.luxor.logo.alt",
+    "url":"http://www.luxorcinema.com/"
   },
   "sections": [
     {
