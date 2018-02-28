@@ -6,13 +6,13 @@
       {
         "title": "content.press.books.title",
         "desc": "content.press.books.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "books/1.jpg",
         "link": "press/books"
       },
       {
         "title": "content.press.magazines.title",
         "desc": "content.press.magazines.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "magazines/1.jpg",
         "link": "press/magazines"
       }
     ]

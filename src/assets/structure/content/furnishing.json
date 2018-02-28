@@ -6,13 +6,13 @@
       {
         "title": "content.furnishing.bespoke.title",
         "desc": "content.furnishing.bespoke.desc",
-        "img": "bespoke-design/01.jpg",
+        "img": "bespoke-design/1.jpg",
         "link": "bespoke-design"
       },
       {
         "title": "content.furnishing.industrial.title",
         "desc": "content.furnishing.industrial.desc",
-        "img": "industrial-design/01.jpg",
+        "img": "industrial-design/ag-1/1.jpg",
         "link": "industrial-design"
       }
     ]

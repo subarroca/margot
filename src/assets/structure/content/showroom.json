@@ -7,19 +7,19 @@
       {
         "title": "content.showroom.classic.title",
         "desc": "content.showroom.classic.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "classic-furniture/1.jpg",
         "link": "showroom/classic-furniture"
       },
       {
         "title": "content.showroom.contemporary.title",
         "desc": "content.showroom.contemporary.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "contemporary-furniture/1.jpg",
         "link": "showroom/contemporary-furniture"
       },
       {
         "title": "content.showroom.textile.title",
         "desc": "content.showroom.textile.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "textile/1.jpg",
         "link": "showroom/textile"
       }
     ]

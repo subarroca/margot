@@ -6,19 +6,19 @@
       {
         "title": "content.interiorDesign.housing.title",
         "desc": "content.interiorDesign.housing.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "housing/pedralbes-1/4.jpg",
         "link": "housing"
       },
       {
         "title": "content.interiorDesign.publicPlaces.title",
         "desc": "content.interiorDesign.publicPlaces.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "public-places/jean-pierre-bua-1/5.jpg",
         "link": "public-places"
       },
       {
         "title": "content.interiorDesign.offices.title",
         "desc": "content.interiorDesign.offices.desc",
-        "img": "http://lorempixel.com/120/90",
+        "img": "offices/kantar-1/4.jpg",
         "link": "offices"
       }
     ]

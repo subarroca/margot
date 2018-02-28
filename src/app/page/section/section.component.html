@@ -2,14 +2,17 @@
   <h3 *ngIf="content?.aside.title">
     {{content?.aside.title | translate}}
   </h3>
-  <div class="text--muted" [innerHtml]="content?.aside?.desc | translate">
+  <div class="aside-holder">
+    <img [src]="content?.aside?.img" *ngIf="content?.aside?.img">
+    <div class="text--muted" [innerHtml]="content?.aside?.desc | translate">
+    </div>
+    <ul *ngIf="content?.aside?.list" class="aside__list">
+      <li *ngFor="let item of content.aside.list">
+        <h4>{{item.title | translate}}</h4>
+        <p class="text--muted">{{item.desc | translate}}</p>
+      </li>
+    </ul>
   </div>
-  <ul *ngIf="content?.aside?.list" class="aside__list">
-    <li *ngFor="let item of content.aside.list">
-      <h4>{{item.title | translate}}</h4>
-      <p class="text--muted">{{item.desc | translate}}</p>
-    </li>
-  </ul>
 </aside>
 
 <content>

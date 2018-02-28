@@ -5,6 +5,7 @@
     "desc": "content.company.main.desc"
   },
   "aside": {
+    "img":"assets/img/margot.jpg",
     "list": [
       {
         "title": "content.company.aside.margot.title",
