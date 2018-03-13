@@ -21,3 +21,4 @@ diumenge 0.75
 ----
 
 dimarts 4
+dimecres 3

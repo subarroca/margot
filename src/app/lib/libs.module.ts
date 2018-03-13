@@ -4,6 +4,9 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { TranslateModule } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
 import { LocalizeRouterModule } from 'localize-router';
+import { GalleryModule } from '@ngx-gallery/core';
+import { LightboxModule } from '@ngx-gallery/lightbox';
+import { GallerizeModule } from '@ngx-gallery/gallerize';
 
 
 @NgModule({
@@ -12,7 +15,9 @@ import { LocalizeRouterModule } from 'localize-router';
     ReactiveFormsModule,
     RouterModule,
     TranslateModule,
-    LocalizeRouterModule
+    LocalizeRouterModule,
+    GalleryModule,
+    LightboxModule
   ],
   declarations: [],
   exports: [

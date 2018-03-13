@@ -3,6 +3,8 @@ import { NgModule, APP_INITIALIZER, Injector } from '@angular/core';
 import { ReactiveFormsModule } from '@angular/forms';
 import { TranslateModule, TranslateLoader, TranslateService } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
+
 
 import { AppComponent } from './app.component';
 import { RouterModule, Routes } from '@angular/router';
@@ -18,7 +20,7 @@ import { NavbarModule } from './core/navbar/navbar.module';
 import { CategoryModule } from './page/category/category.module';
 import { SectionModule } from './page/section/section.module';
 import { ContactModule } from './page/contact/contact.module';
-import { GalleryModule } from './page/gallery/gallery.module';
+import { GalleryModule as MyGalleryModule } from './page/gallery/gallery.module';
 import { environment } from '../environments/environment';
 import { LocalizeRouterModule, LocalizeParser, ManualParserLoader, LocalizeRouterSettings } from 'localize-router';
 import { HomeComponent } from './page/home/home.component';
@@ -29,6 +31,9 @@ import { GalleryComponent } from './page/gallery/gallery.component';
 import { ContactComponent } from './page/contact/contact.component';
 import { StructureMenuItem } from './core/structure/structure-menu-item';
 import { Router } from '@angular/router';
+import { GalleryModule } from '@ngx-gallery/core';
+import { LightboxModule } from '@ngx-gallery/lightbox';
+
 
 @NgModule({
   declarations: [
@@ -45,13 +50,16 @@ import { Router } from '@angular/router';
         deps: [HttpClient]
       }
     }),
-
+    NoopAnimationsModule,
     LibsModule,
-
-    // AppRoutingModule,
+    GalleryModule.forRoot({
+      thumb: false,
+      counter: false,
+    }),
+    LightboxModule.forRoot(),
 
     HomeModule,
-    GalleryModule,
+    MyGalleryModule,
     ContactModule,
     SectionModule,
     CategoryModule,

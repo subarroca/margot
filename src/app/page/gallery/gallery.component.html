@@ -5,11 +5,12 @@
   <p class="main__desc text--muted">{{content?.desc | translate}}</p>
 
   <div
-   *ngFor="let section of content?.sections">
-    <div class="h3">{{section.title | translate}}</div>
+   *ngFor="let section of content?.sections; let s = index">
+    <div class="h3 text--muted">{{section.title | translate}}</div>
     <div class="holder">
-      <app-media-card *ngFor="let img of section.imgs"
-        [img]="img">
+      <app-media-card *ngFor="let img of section.imgs; let i=index"
+        [img]="img"
+        (click)="lightbox.open(getThumbnailPosition(s,i))">
       </app-media-card>
     </div>
   </div>
