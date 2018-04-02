@@ -76,6 +76,11 @@
             "id": "showroom/textile",
             "name": "navbar.textile",
             "type": "gallery"
+          },
+          {
+            "id": "showroom/headquarter",
+            "name": "navbar.headquarter",
+            "type": "gallery"
           }
         ]
       },

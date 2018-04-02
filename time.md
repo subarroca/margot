@@ -22,3 +22,7 @@ diumenge 0.75
 
 dimarts 4
 dimecres 3
+dimarts 1.5
+reunió 1.5
+
+dilluns 2.25

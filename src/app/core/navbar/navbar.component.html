@@ -18,8 +18,8 @@
       [class.active]="lang===currentLang" 
       *ngFor="let lang of langs$ | async"
       (click)="changeLang(lang)">
-      {{lang}}
-      <!-- {{'langs.'+lang|translate}} -->
+      <!-- {{lang}} -->
+      {{'langs.'+lang|translate}}
     </span>
   </div>
 </div>

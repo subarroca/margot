@@ -2,16 +2,23 @@
   "main": {
     "title": "content.offices.main.title",
     "galleries": {
-      "offices/kantar-1": {
-        "place": "content.place.barcelona",
-        "img": "offices/kantar-1/4.jpg",
+      "offices/kantar-group-1": {
+        "place": "content.place.santCugat",
+        "img": "offices/kantar-group-1/4.jpg",
         "tags": [
-          "content.tag.kantar"
+          "content.tag.kantarGroup"
         ]
       },
-      "offices/kantar-2": {
+      "offices/kantar-barcelona-1": {
+        "place": "content.place.santCugat",
+        "img": "offices/kantar-barcelona-1/1.jpg",
+        "tags": [
+          "content.tag.kantarWorldPanel"
+        ]
+      },
+      "offices/kantar-lisboa-1": {
         "place": "content.place.lisboa",
-        "img": "offices/kantar-2/1.jpg",
+        "img": "offices/kantar-lisboa-1/1.jpg",
         "tags": [
           "content.tag.kantar"
         ]

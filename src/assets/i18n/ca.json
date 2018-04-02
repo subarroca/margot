@@ -9,6 +9,7 @@
   "ROUTES.customers": "clients",
   "ROUTES.furnishing": "disseny-mobiliari",
   "ROUTES.gallery": "g",
+  "ROUTES.headquarter": "botiga",
   "ROUTES.housing": "habitatges",
   "ROUTES.industrial-design": "disseny-industrial",
   "ROUTES.info": "i",
@@ -90,6 +91,7 @@
       "plans": "Plànols",
       "render": "Render"
     },
+    "headquarter.title": "Botiga",
     "housing": {
       "main.desc": "Creem i construïm una llar completa o un sol espai fins l’últim detall.",
       "main.title": "Habitatges"
@@ -135,7 +137,7 @@
       "bonanova": "Bonanova (Barcelona)",
       "brussels": "Brussel·les",
       "cerdanya": "Cerdanya",
-      "chelsea": "Chelsea",
+      "chelsea": "Chelsea (Londres)",
       "eixample": "Eixample (Barcelona)",
       "emporda": "Empordà",
       "francescMacia": "Francesc Macià (Barcelona)",
@@ -198,6 +200,10 @@
         "desc": "Sensibilitat i rigor tècnic en les grans produccions",
         "title": "Moble contemporari"
       },
+      "headquarter": {
+        "desc": "",
+        "title": "Botiga"
+      },
       "main": {
         "desc": "Amb un tracte personalitzat i privat, projectem rigorosament la seva casa o lloc públic.<br/>Amb l’assistència de Margot, a més del nostre mobiliari exclusiu pot adquirir mobiliari contemporani i clàssic renovat que hem triat per als nostres clients.",
         "title": "Estudi-Showroom-Botiga"
@@ -234,6 +240,7 @@
       "displays": "Aparadors",
       "dobleD": "Doble D",
       "doce": "DO+CE",
+      "done": "Obra realitzada",
       "dorsus": "Col·lecció Dorsus",
       "duplex": "Dúplex",
       "estrella": "Estrella",
@@ -250,6 +257,8 @@
       "house": "Casa",
       "jeanPierreBua": "Jean Pierre Bua",
       "kantar": "Kantar",
+      "kantarGroup": "Grup Kantar Multinacional",
+      "kantarWorldPanel": "Kantar WorldPanel",
       "kubica": "Kubica",
       "living": "Sala d'estar",
       "mai": "Col·lecció Mai",
@@ -277,6 +286,7 @@
       "target": "Target",
       "temasV": "Tema V",
       "titanium": "Titanium",
+      "vibia": "Vibia",
       "xlms": "XLMS",
       "yume": "Yume"
     },
@@ -291,7 +301,8 @@
   },
   "generalMessage": "Web en proves",
   "home": {
-    "logoAlt": "Margot Viarnés"
+    "logoAlt": "Margot Viarnés",
+    "slogan": "Creem espais únics"
   },
   "langs": {
     "ca": "Català",

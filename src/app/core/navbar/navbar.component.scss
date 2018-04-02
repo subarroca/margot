@@ -78,6 +78,7 @@ nav{
   text-align: right;
   justify-self: flex-end;
   flex: 1;
+  margin-bottom: 10px;
 }
 
 .lang{
@@ -86,7 +87,7 @@ nav{
   font-family: $menuFont;
   color: $neutral;
   margin-left: $grid-gutter;
-  display: inline-block;
+  display: block;
 
   &:hover,
   &.active{

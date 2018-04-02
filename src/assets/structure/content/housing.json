@@ -3,53 +3,6 @@
     "title": "content.housing.main.title",
     "desc": "content.housing.main.desc",
     "galleries": {
-      "housing/barcelona-1": {
-        "place": "content.place.barcelona",
-        "img": "housing/barcelona-1/1.jpg",
-        "tags": [
-          "content.tag.hall",
-          "content.tag.living",
-          "content.tag.dinning"
-        ]
-      },
-      "housing/barcelona-2": {
-        "place": "content.place.barcelona",
-        "img": "housing/barcelona-2/1.jpg",
-        "tags": [
-          "content.tag.hall",
-          "content.tag.living",
-          "content.tag.dinning",
-          "content.tag.bedroom"
-        ]
-      },
-      "housing/barcelona-3": {
-        "place": "content.place.barcelona",
-        "img": "housing/barcelona-3/1.jpg",
-        "tags": [
-          "content.tag.dinning"
-        ]
-      },
-      "housing/barcelona-4": {
-        "place": "content.place.barcelona",
-        "img": "housing/barcelona-4/1.jpg",
-        "tags": [
-          "content.tag.homeOffice"
-        ]
-      },
-      "housing/lleida-1": {
-        "place": "content.place.lleida",
-        "img": "housing/lleida-1/1.jpg",
-        "tags": [
-          "content.tag.flat"
-        ]
-      },
-      "housing/valldoreix-1": {
-        "place": "content.place.valldoreix",
-        "img": "housing/valldoreix-1/1.jpg",
-        "tags": [
-          "content.tag.house"
-        ]
-      },
       "housing/rambla-catalunya-1": {
         "place": "content.place.ramblaCatalunya",
         "img": "housing/rambla-catalunya-1/1.jpg",
@@ -71,6 +24,15 @@
           "content.tag.house"
         ]
       },
+      "housing/barcelona-1": {
+        "place": "content.place.barcelona",
+        "img": "housing/barcelona-1/1.jpg",
+        "tags": [
+          "content.tag.hall",
+          "content.tag.living",
+          "content.tag.dinning"
+        ]
+      },
       "housing/chelsea-1": {
         "place": "content.place.chelsea",
         "img": "housing/chelsea-1/9.jpg",
@@ -78,9 +40,19 @@
           "content.tag.house"
         ]
       },
-      "housing/pearson-1": {
-        "place": "content.place.pearson",
-        "img": "housing/pearson-1/5.jpg",
+      "housing/barcelona-2": {
+        "place": "content.place.barcelona",
+        "img": "housing/barcelona-2/1.jpg",
+        "tags": [
+          "content.tag.living",
+          "content.tag.dinning",
+          "content.tag.bedroom",
+          "content.tag.hall"
+        ]
+      },
+      "housing/valldoreix-1": {
+        "place": "content.place.valldoreix",
+        "img": "housing/valldoreix-1/1.jpg",
         "tags": [
           "content.tag.house"
         ]
@@ -120,11 +92,11 @@
           "content.tag.duplex"
         ]
       },
-      "housing/pedralbes-2": {
-        "place": "content.place.pedralbes",
-        "img": "housing/pedralbes-2/1.jpg",
+      "housing/pearson-1": {
+        "place": "content.place.pearson",
+        "img": "housing/pearson-1/5.jpg",
         "tags": [
-          "content.tag.flat"
+          "content.tag.house"
         ]
       },
       "housing/emporda-1": {
@@ -132,6 +104,13 @@
         "img": "housing/emporda-1/8.jpg",
         "tags": [
           "content.tag.house"
+        ]
+      },
+      "housing/barcelona-4": {
+        "place": "content.place.barcelona",
+        "img": "housing/barcelona-4/1.jpg",
+        "tags": [
+          "content.tag.homeOffice"
         ]
       },
       "housing/vila-olimpica-1": {
@@ -155,6 +134,13 @@
           "content.tag.house"
         ]
       },
+      "housing/pedralbes-2": {
+        "place": "content.place.pedralbes",
+        "img": "housing/pedralbes-2/1.jpg",
+        "tags": [
+          "content.tag.flat"
+        ]
+      },
       "housing/llavaneres-1": {
         "place": "content.place.llavaneres",
         "img": "housing/llavaneres-1/5.jpg",
@@ -169,18 +155,25 @@
           "content.tag.duplex"
         ]
       },
-      "housing/bilbao-1": {
-        "place": "content.place.bilbao",
-        "img": "housing/bilbao-1/2.jpg",
-        "tags": [
-          "content.tag.appartment"
-        ]
-      },
       "housing/gracia-2": {
         "place": "content.place.gracia",
         "img": "housing/gracia-2/3.jpg",
         "tags": [
           "content.tag.studio"
+        ]
+      },
+      "housing/barcelona-3": {
+        "place": "content.place.barcelona",
+        "img": "housing/barcelona-3/1.jpg",
+        "tags": [
+          "content.tag.dinning"
+        ]
+      },
+      "housing/lleida-1": {
+        "place": "content.place.lleida",
+        "img": "housing/lleida-1/1.jpg",
+        "tags": [
+          "content.tag.flat"
         ]
       }
     }

@@ -3,6 +3,37 @@
     "title": "content.projects.main.title",
     "desc": "content.projects.main.desc",
     "galleries": {
+      "projects/rambla-catalunya-1": {
+        "place": "content.place.ramblaCatalunya",
+        "img": "projects/rambla-catalunya-1/a1.jpg",
+        "tags": [
+          "content.tag.flat",
+          "content.tag.done"
+        ]
+      },
+      "projects/barcelona-2": {
+        "place": "content.place.barcelona",
+        "img": "projects/barcelona-2/r1.jpg",
+        "tags": [
+          "content.tag.office",
+          "content.tag.showroom"
+        ]
+      },
+      "projects/gracia-1": {
+        "place": "content.place.gracia",
+        "img": "projects/gracia-1/r8.jpg",
+        "tags": [
+          "content.tag.flat"
+        ]
+      },
+      "projects/sabadell-1": {
+        "place": "content.place.sabadell",
+        "img": "projects/sabadell-1/r1.jpg",
+        "tags": [
+          "content.tag.house",
+          "content.tag.done"
+        ]
+      },
       "projects/eixample-1": {
         "place": "content.place.eixample",
         "img": "projects/eixample-1/r2.jpg",
@@ -17,36 +48,8 @@
           "content.tag.hall",
           "content.tag.living",
           "content.tag.dinning",
-          "content.tag.bedroom"
-        ]
-      },
-      "projects/rambla-catalunya-1": {
-        "place": "content.place.ramblaCatalunya",
-        "img": "projects/rambla-catalunya-1/a1.jpg",
-        "tags": [
-          "content.tag.flat"
-        ]
-      },
-      "projects/barcelona-2": {
-        "place": "content.place.barcelona",
-        "img": "projects/barcelona-2/r1.jpg",
-        "tags": [
-          "content.tag.office",
-          "content.tag.showroom"
-        ]
-      },
-      "projects/sabadell-1": {
-        "place": "content.place.sabadell",
-        "img": "projects/sabadell-1/r1.jpg",
-        "tags": [
-          "content.tag.house"
-        ]
-      },
-      "projects/gracia-1": {
-        "place": "content.place.gracia",
-        "img": "projects/gracia-1/r8.jpg",
-        "tags": [
-          "content.tag.flat"
+          "content.tag.bedroom",
+          "content.tag.done"
         ]
       }
     }

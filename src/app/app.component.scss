@@ -13,6 +13,7 @@
 }
 
 .advise{
-    background: $primary;
-    padding: $grid-gutter;
+  background: $primary;
+  padding: 0 $grid-gutter;
+  overflow: auto;
 }

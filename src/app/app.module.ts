@@ -53,7 +53,7 @@ import { LightboxModule } from '@ngx-gallery/lightbox';
     NoopAnimationsModule,
     LibsModule,
     GalleryModule.forRoot({
-      thumb: false,
+      // thumb: false,
       counter: false,
     }),
     LightboxModule.forRoot(),
