@@ -6,7 +6,7 @@ import { DomSanitizer } from '@angular/platform-browser';
 import { TranslateService } from '@ngx-translate/core';
 import { Lightbox } from '@ngx-gallery/lightbox';
 import { Gallery, GalleryItem, ImageItem } from '@ngx-gallery/core';
-import { environment } from 'environments/environment';
+import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-gallery',
@@ -35,7 +35,7 @@ export class GalleryComponent extends PageComponent implements OnInit {
     const a = 0;
     this.galleryItems = [].concat(...this.content.sections
       .map(section => section.imgs
-        .map(img => new ImageItem(`${environment.imageUrl}${img}`, `${environment.imageUrl}${img}`))));
+        .map(img => new ImageItem(`${environment.imageUrl}${img}`, `${environment.thumbsUrl}${img}`))));
 
     this.gallery.ref('lightbox').load(this.galleryItems);
   }

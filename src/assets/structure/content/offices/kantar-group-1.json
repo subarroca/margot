@@ -1,0 +1,23 @@
+{
+  "place": "content.place.barcelona",
+  "tags": [
+    "content.tag.kantarGroup"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "offices/kantar-group-1/1.jpg",
+        "offices/kantar-group-1/2.jpg",
+        "offices/kantar-group-1/3.jpg",
+        "offices/kantar-group-1/4.jpg",
+        "offices/kantar-group-1/5.jpg",
+        "offices/kantar-group-1/6.jpg",
+        "offices/kantar-group-1/7.jpg",
+        "offices/kantar-group-1/8.jpg",
+        "offices/kantar-group-1/9.jpg",
+        "offices/kantar-group-1/10.jpg"
+      ]
+    }
+  ]
+}

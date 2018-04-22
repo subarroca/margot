@@ -1,6 +1,6 @@
 <content class="content">
   <h1>{{parsedTags }}</h1>
-  <p class="h3">{{content?.place | translate}}</p>
+  <p class="h3" *ngIf="content?.place">{{content?.place | translate}}</p>
 
   <p class="main__desc text--muted">{{content?.desc | translate}}</p>
 

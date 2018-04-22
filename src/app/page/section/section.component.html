@@ -24,8 +24,8 @@
   </aside>
   
   <content>
-    <h1>{{content?.main.title | translate}}</h1>
-    <div class="h3" *ngIf="content?.main.subtitle">{{content?.main.subtitle | translate}}</div>
+    <h1>{{content?.main?.title | translate}}</h1>
+    <div class="h3" *ngIf="content?.main?.subtitle">{{content?.main?.subtitle | translate}}</div>
     <div class="main__desc text--muted" *ngIf="content?.main.desc" [innerHtml]="content?.main?.desc | translate">
     </div>
   

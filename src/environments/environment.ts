@@ -8,5 +8,6 @@ export const environment = {
   mainLang: 'en',
   i18nUrl: '/assets/i18n/',
   structureUrl: '/assets/structure',
-  imageUrl: '/assets/img/'
+  imageUrl: '/assets/img/',
+  thumbUrl: '/assets/thumbs/'
 };

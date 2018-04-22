@@ -17,7 +17,7 @@ export class MediaCardComponent implements OnInit {
   @Input() link: string;
 
   private _tags: string[];
-  path: string = environment.imageUrl;
+  path: string = environment.thumbUrl;
 
   constructor(
     private translateService: TranslateService,

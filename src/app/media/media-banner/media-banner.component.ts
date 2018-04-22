@@ -14,7 +14,7 @@ export class MediaBannerComponent implements OnInit {
   @Input() img: string;
   @Input() link: string;
 
-  path: string = environment.imageUrl;
+  path: string = environment.thumbUrl;
 
 
   constructor(
