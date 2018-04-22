@@ -35,7 +35,7 @@ export class GalleryComponent extends PageComponent implements OnInit {
     const a = 0;
     this.galleryItems = [].concat(...this.content.sections
       .map(section => section.imgs
-        .map(img => new ImageItem(`${environment.imageUrl}${img}`, `${environment.thumbsUrl}${img}`))));
+        .map(img => new ImageItem(`${environment.imageUrl}${img}`, `${environment.thumbUrl}${img}`))));
 
     this.gallery.ref('lightbox').load(this.galleryItems);
   }
