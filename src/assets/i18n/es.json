@@ -1,0 +1,335 @@
+{
+  "ROUTES.bespoke-design": "diseno-a-medida",
+  "ROUTES.books": "libros",
+  "ROUTES.category": "c",
+  "ROUTES.classic-furniture": "mobiliario-clasico",
+  "ROUTES.company": "compania",
+  "ROUTES.contact": "contacto",
+  "ROUTES.contemporary-furniture": "mobiliario-contemporaneo",
+  "ROUTES.customers": "clientes",
+  "ROUTES.furnishing": "diseno-mobiliario",
+  "ROUTES.gallery": "g",
+  "ROUTES.headquarter": "tienda",
+  "ROUTES.housing": "viviendas",
+  "ROUTES.industrial-design": "diseno-industrial",
+  "ROUTES.info": "i",
+  "ROUTES.interior-design": "diseno-interiores",
+  "ROUTES.luxor": "luxor",
+  "ROUTES.magazines": "revistas",
+  "ROUTES.offices": "oficinas-multinacionales",
+  "ROUTES.press": "prensa",
+  "ROUTES.projects": "presentacion-proyectos",
+  "ROUTES.public-places": "locales-publicos",
+  "ROUTES.section": "s",
+  "ROUTES.showroom": "showroom",
+  "ROUTES.textile": "textil",
+  "content": {
+    "bespokeDesign": {
+      "title": "Diseño a medida"
+    },
+    "classicFurniture.title": "Mobiliario clásico",
+    "clients": {
+      "main": {
+        "desc": "<p>El estudio de Margot Viarnès trabaja espacios públicos y privados, tanto con empresas como con clientes privados, a nivel nacional e internacional.</p><p>Nuestra filosofía en interiorismo es crear espacios únicos y exclusivos de acuerdo a los objetivos de cada uno de nuestros clientes. el bienestar y la calidad son nuestra prioridad.</p><p>Trabajamos con empresarios y directivos de empresa, que pueden despreocuparse del proyecto y de la ejecución del obra hasta su finalización total. El estudio de Margot Viarnès cierra los presupuestos y se compromete con los plazos acordados. Trabajamos con empresarios, propietarios de locales comerciales, que buscan una mejora funcional y estética que les ayude a impulsar su negocio.</p><p>Trabajamos con clientes que buscan mejorar su bienestar mediante la rehabilitación o decoración de su vivienda.</p><p>Trabajamos con clientes extranjeros que necesitan reformar o decorar su nuevo espacio en España. El estudio de Margot Viarnès coordina y entrega toda la obra acabada sin necesidad de que el cliente esté instalado en el país.Si más adelante cambian de residencia, el Estudio coordina el desmontaje y transporte a la nueva vivienda.</p><p>Margot Viarnès y su estudio han realizado obras fuera de España, en ciudades como Londres, París, Düsseldorf, Colonia, Bruselas y Lisboa, tanto con el equipo propio como subcontratado.</p>",
+        "title": "Clientes y servicios"
+      }
+    },
+    "company": {
+      "aside": {
+        "estrade": {
+          "desc": "Interiorista. Colaboraciones en algunos proyectos. Infografía",
+          "title": "Joan Estradé"
+        },
+        "lane": {
+          "desc": "Coordinadora estudio y fotógrafa",
+          "title": "Lane de Castro"
+        },
+        "margot": {
+          "desc": "Directora creativa y gerente. Diseñadora industrial e interiorista",
+          "title": "Margot Viarnès"
+        },
+        "mateu": {
+          "desc": "Diseño gráfico y web",
+          "title": "Joan Mateu"
+        },
+        "rodriguez": {
+          "desc": "Arquitecta",
+          "title": "V. De Rodríguez"
+        },
+        "rossend": {
+          "desc": "Interiorista. Colaboraciones en algunos proyectos",
+          "title": "Rossend Cortés"
+        },
+        "tere": {
+          "desc": "Interiorista. Coordinadora de Estudio, Showroom y Tienda",
+          "title": "Tere Guasch"
+        }
+      },
+      "main": {
+        "desc": "<p>Más de 20 años creando espacios únicos y diseñando mobiliari. Margot está reconocida como una de las 10 mejores diseñadoras españolas en el diseño de mobiliario, como se muestra en (Mujeres al Proyecto), publicación especial del Ministerio de Industria. A nivel internacional ha sido reconocida entre las 40 diseñadoras de muebles que han marcado la historia del diseño en Europa. (Nientedimeno Nothing Less, by Anty Pansera). Sus sillas y sofás se pueden encontrar en todo el mundo. /p ><p>el Estudio Margot Viarnès ha sido reconocido como uno de los 50 estudios de interiorismo y diseño de más prestigio en España, (Interiorismo Plus) en su showroom de Barcelona se pueden apreciar algunos de sus diseños de mobiliario y sentir así mismo el carácter y know-how que imprime como diseñadora de interiores.</p><p>El Estudio de Margot Viarnès cuenta con un equipo de profesionales en arquitectura, ingeniería, carpintería industrial, informática, electricidad, pintura, ebanistería, costura, montaje ..., con el mismo grado de compromiso que adquiere Margot en cada proyecto y están coordinados por ella día a día. </p>",
+        "subtitle": "Diseñadora de interiores y diseñadora industrial",
+        "title": "Margot Viarnès"
+      }
+    },
+    "contemporaryFurniture.title": "Mobiliario contemporáneo",
+    "furnishing": {
+      "bespoke": {
+        "desc": "Diseñamos un traje a medida para tu hogar y tu empresa",
+        "title": "Exclusivo a medida"
+      },
+      "industrial": {
+        "desc": "Sensibilidad y rigor técnico en las grandes producciones",
+        "title": "Diseño industrial"
+      },
+      "main": {
+        "title": "Diseño de mobiliario"
+      }
+    },
+    "generic": {
+      "after": "Obra finalizada",
+      "before": "Antes",
+      "plans": "Planos",
+      "render": "Render"
+    },
+    "headquarter.title": "Tienda",
+    "housing": {
+      "main.desc": "Creamos y construimos un hogar completa o un solo espacio hasta el último detalle.",
+      "main.title": "Viviendas"
+    },
+    "industrialDesign": {
+      "main": {
+        "desc": "",
+        "title": "Diseño industrial"
+      }
+    },
+    "interiorDesign": {
+      "aside": {
+        "desc": "<p>Todas las fotografías de proyectos de interiores y artísticas son de: <br/> Lane de Castro: <strong> 667 74 92 30 </strong> <br/>Albert Fuente: <strong> 609 892 382</Strong></p><p>Todos los grafismos en proyectos de espacios públicos son de <br/>Joan Mateu: <strong> 678 973 838 </strong> </p> ",
+        "title": "Colaboraciones"
+      },
+      "housing": {
+        "desc": "Creamos y construimos viviendas hasta el más mínimo detalle",
+        "title": "Viviendas"
+      },
+      "main": {
+        "title": "Proyectos de interiores"
+      },
+      "offices": {
+        "desc": "Unimos el rigor técnico y la creatividad con los valores de cada empresa",
+        "title": "Oficinas para multinacionales y stands"
+      },
+      "publicPlaces": {
+        "desc": "Un espacio bien diseñado ayuda a llegar a tu público",
+        "title": "Locales públicos"
+      }
+    },
+    "luxor": {
+      "desc": "Diseñamos espacios y muebles exclusivos integrando domótica, sonido, imagen (TV, monitores), altavoces, personalizado según las necesidades y presupuesto de cada cliente.",
+      "logo.alt": "Luxor cine",
+      "title": "Luxor & Margot"
+    },
+    "offices": {
+      "main.title": "Oficinas multinacionales"
+    },
+    "place": {
+      "barcelona": "Barcelona",
+      "bilbao": "Bilbao",
+      "bonanova": "Bonanova (Barcelona)",
+      "brussels": "Bruselas",
+      "cerdanya": "Cerdanya (Girona)",
+      "chelsea": "Chelsea (Londres)",
+      "eixample": "Eixample (Barcelona)",
+      "emporda": "Empordà (Girona)",
+      "francescMacia": "Francesc Macià (Barcelona)",
+      "girona": "Girona",
+      "gracia": "Gracia (Barcelona)",
+      "lisboa": "Lisboa",
+      "llavaneres": "Llavaneres (Girona)",
+      "lleida": "Lleida",
+      "madrid": "Madrid",
+      "pearson": "Av Pearson (Barcelona)",
+      "pedralbes": "Pedralbes (Barcelona)",
+      "portugal": "Portugal",
+      "ramblaCatalunya": "Rambla Catalunya (Barcelona)",
+      "sabadell": "Sabadell (Barcelona)",
+      "santCugat": "Sant Cugat (Barcelona)",
+      "santGervasi": "Sant Gervasi (Barcelona)",
+      "serrano": "Serrano (Madrid)",
+      "sitges": "Sitges (Barcelona)",
+      "valldoreix": "Valldoreix (Barcelona)",
+      "vilaOlimpica": "Villa Olímpica (Barcelona)"
+    },
+    "press": {
+      "aside": {
+        "desc": "<p>Margot Viarnès ha sido seleccionada entre los 40 diseñadores de muebles en el campo de la industria que han marcado historia entre los años 1945 y 2010 en Europa.</p><p>Edición: NIENTEDIMENO NOTHING LESS edited by Anty Pansera with MARIA TERESA Chirico. UMBERTO Allemandi ¬ C. Turin - London - Venecia - New York.</p><p>Sus obras han sido publicadas en Wallspaper, Interni, Arquitectura y Diseño, el suplemento de Vanguardia, Woman, Elle, Yo Dona del diario El Mundo, Experimenta, Casa Viva, Nuevo Estilo ... </p> ",
+        "title": "Último reconocimiento profesional"
+      },
+      "books": {
+        "desc": "Bibliografía sobre Margot Viarnès",
+        "title": "Libros"
+      },
+      "magazines": {
+        "desc": "Artículos y foto reportajes sobre el trabajo de Margot Viarnès",
+        "title": "Revistas"
+      },
+      "main": {
+        "title": "Prensa"
+      }
+    },
+    "projects": {
+      "barcelona1.desc": "",
+      "barcelona2.desc": "Margot Viarnès & Facility Project",
+      "eixample1.desc": "",
+      "gracia1.desc": "",
+      "main": {
+        "desc": "Diseñamos a Margot Viarnès su vivienda o espacio público, puede construirlo y decorarlo con nosotros, supervisado por Margot Viarnès hasta el último detalle, o puede adquirir el proyecto y realizarlo usted.",
+        "title": "Presentación de nuestros proyectos"
+      },
+      "ramblaCatalunya1.desc": "",
+      "sabadell1.desc": "en colaboración con Joan Estradé - Interiorista"
+    },
+    "publicPlaces": {
+      "main.title": "Locales públicos"
+    },
+    "showroom": {
+      "classic": {
+        "desc": "Diseñamos un traje a medida para tu hogar y tu empresa",
+        "title": "Mueble clásico"
+      },
+      "contemporary": {
+        "desc": "Sensibilidad y rigor técnico en las grandes producciones",
+        "title": "Mueble Contemporáneo"
+      },
+      "headquarter": {
+        "desc": "",
+        "title": "Tienda"
+      },
+      "main": {
+        "desc": "Con un trato personalizado y privado, proyectamos rigurosamente su casa o lugar público. <br/> Con la asistencia de Margot, además de nuestro mobiliario exclusivo puede adquirir mobiliario contemporáneo y clásico renovado que hemos elegido para nuestros clientes.",
+        "title": "Estudio-Showroom-Tienda"
+      },
+      "textile": {
+        "desc": "Sensibilidad y rigor técnico en las grandes producciones",
+        "title": "Textil"
+      }
+    },
+    "tag": {
+      "aesthetics": "Clínica estética",
+      "ag": "Colección AG",
+      "altaCostura": "Alta costura",
+      "andreuWorld": "Andreu World",
+      "appartment": "Apartamento",
+      "arts": "Artes",
+      "arwen": "Colección Arwen",
+      "atelier": "Atelier",
+      "bedroom": "Habitación",
+      "beds": "Camas",
+      "begum": "Begum",
+      "boutique": "Boutique",
+      "cachemira": "Cachemira",
+      "cafeSaula": "Café Saula",
+      "cateringMontserrat": "Catering Montserrat",
+      "celda": "Celda",
+      "centerTables": "Centros",
+      "chairs": "Sillas",
+      "checkpoint": "Checkpoint",
+      "concepta": "Concepta",
+      "concisa": "Colección Concisa",
+      "crisis": "Colección Crisis",
+      "dinning": "Comedor",
+      "displays": "Escaparates",
+      "dobleD": "Doble D",
+      "doce": "DO + CE",
+      "done": "Obra realizada",
+      "dorsus": "Colección Dorsus",
+      "duplex": "Dúplex",
+      "estrella": "Estrella",
+      "euroImage": "Euro Image",
+      "flat": "Piso",
+      "glasse": "Glasse",
+      "grupoDas": "Grupo DAS",
+      "gunniBanos": "Gunni Baños",
+      "gunniCocinas": "Gunni Cocinas",
+      "gunniHogar": "Gunni Hogar",
+      "gunniPoliform": "Gunni Poliform",
+      "hall": "Recibidor",
+      "homeOffice": "Despacho",
+      "house": "Casa",
+      "jeanPierreBua": "Jean Pierre Bua",
+      "kantar": "Kantar",
+      "kantarGroup": "Grupo Kantar Multinacional",
+      "kantarWorldPanel": "Kantar Worldpanel",
+      "kubica": "Kubica",
+      "living": "Sala de estar",
+      "mai": "Colección Mai",
+      "margot": "Colección Margot",
+      "melanie": "Colección Melanie",
+      "mirrors": "Espejos",
+      "office": "Oficina",
+      "oman": "Omán",
+      "paularte": "Paularte",
+      "romeo": "Romeo",
+      "sabana": "Sabana",
+      "sau": "Sau",
+      "scarlett": "Colección Scarlett",
+      "shelves": "Estantes",
+      "shoeshop": "Zapatería",
+      "shop": "Tienda",
+      "showroom": "Showroom",
+      "silver": "Silver",
+      "sinks": "Picas",
+      "sixties": "Sixties",
+      "stand": "Stand",
+      "stands": "Peanas",
+      "studio": "Estudio",
+      "tables": "Tablas",
+      "target": "Target",
+      "temasV": "Tema V",
+      "titanium": "Titanium",
+      "vibia": "Vibia",
+      "xlms": "XLMS",
+      "yume": "Yume"
+    },
+    "textile.title": "Textil"
+  },
+  "footer": {
+    "city": "08006 Barcelona",
+    "contact": "Contact us",
+    "email": "margot@margotviarnes.com",
+    "phone": "+34 93 414 50 00",
+    "street": "Muntaner 414, Ent 2"
+  },
+  "generalMessage": "Web en pruebas",
+  "home": {
+    "logoAlt": "Margot Viarnès",
+    "slogan": "Creamos espacios únicos"
+  },
+  "langs": {
+    "ca": "Catalán",
+    "en": "English",
+    "es": "Castellano",
+    "ru": "Russian",
+    "zh": "Chinese"
+  },
+  "navbar": {
+    "bespokeDesign": "Diseño a medida",
+    "books": "Libros",
+    "classicFurniture": "Mobiliario clásico",
+    "company": "Margot y la compañía",
+    "contemporaryFurniture": "Mobiliario contemporáneo",
+    "customers": "Clientes",
+    "furnishing": "Diseño de mobiliario",
+    "housing": "Viviendas",
+    "industrialDesign": "Diseño industrial",
+    "interiorDesign": "Proyectos de interiores",
+    "logoAlt": "Margot Viarnès",
+    "luxor": "Luxor & Margot",
+    "magazines": "Revistas",
+    "offices": "Oficinas para multinacionales",
+    "press": "Prensa",
+    "projects": "Presentación de proyectos",
+    "publicPlaces": "Locales públicos",
+    "showroom": "Estudio - Showroom - Tienda",
+    "textile": "Textil"
+  }
+}

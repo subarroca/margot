@@ -26,3 +26,9 @@ dimarts 1.5
 reunió 1.5
 
 dilluns 2.25
+diumenge 2
+dilluns 1.5
+
+----
+53.5
+----
