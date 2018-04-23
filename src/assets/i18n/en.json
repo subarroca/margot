@@ -77,8 +77,6 @@
         "desc": "We design a tailored suit for your home and your company",
         "title": "Exclusive to size"
       },
-
-
       "industrial": {
         "desc": "Sensitivity and technical rigor in the big productions",
         "title": "Industrial Design"
@@ -122,7 +120,7 @@
       },
       "publicPlaces": {
         "desc": "A well-designed space helps to reach your audience",
-        "title": "Public Locals"
+        "title": "Public Locals"
       }
     },
     "luxor": {
@@ -206,8 +204,6 @@
         "desc": "",
         "title": "Store"
       },
-
-
       "main": {
         "desc": "With a personalized and private treatment, we carefully project your home or public place. <br/> With the assistance of Margot, besides our exclusive furniture you can acquire contemporary and classic furnishings that we have chosen for the our customers. ",
         "title": "Studio-Showroom-Store"
@@ -220,7 +216,7 @@
     "tag": {
       "aesthetics": "Aesthetic Clinic",
       "ag": "Collection AG",
-      "high Cost": "High seam",
+      "altaCostura": "Alta costura",
       "andreuWorld": "Andreu World",
       "appartment": "Appartment",
       "arts": "Arts",
@@ -230,24 +226,24 @@
       "beds": "Beds",
       "begum": "Begum",
       "boutique": "Boutique",
-      "cashmere": "Cashmere",
+      "cachemira": "Cashmere",
       "cafeSaula": "Saula Coffee",
       "cateringMontserrat": "Catering Montserrat",
-      "cell": "Cell",
+      "celda": "Celda",
       "centerTables": "Centers",
       "chairs": "Chairs",
       "checkpoint": "Checkpoint",
-      "concept": "concept",
-      "concise": "Concise Collection",
+      "concepta": "Concepta",
+      "concisa": "Concisa Collection",
       "crisis": "Crisis Collection",
       "dinning": "Dining room",
       "displays": "Showcases",
-      "doubleD": "Double D",
-      "twelve": "DO+CE",
+      "dobleD": "Doble D",
+      "doce": "DO+CE",
       "done": "Work done",
       "dorsus": "Dorsus Collection",
       "duplex": "Duplex",
-      "star": "Star",
+      "estrella": "Estrella",
       "euroImage": "Euro Image",
       "flat": "Flat",
       "glasse": "Glasse",
@@ -265,7 +261,7 @@
       "kantarWorldPanel": "Kantar WorldPanel",
       "kubica": "Kubica",
       "living": "living room",
-      "never": "Never Collection",
+      "mai": "Mai Collection",
       "margot": "Margot Collection",
       "melanie": "Melanie Collection",
       "mirrors": "mirrors",
@@ -273,7 +269,7 @@
       "oman": "Oman",
       "paularte": "Paularte",
       "romeo": "Romeo",
-      "savannah": "Savannah",
+      "sabana": "Sabana",
       "sau": "Sau",
       "scarlett": "Scarlett Collection",
       "shelves": "Shelves",
@@ -288,9 +284,9 @@
       "studio": "Study",
       "tables": "Tables",
       "target": "Target",
-      "themesV": "Theme V",
+      "temasV": "Tema V",
       "titanium": "Titanium",
-      "vibe": "Vibia",
+      "vibia": "Vibia",
       "xlms": "XLMS",
       "yume": "Yume"
     },
@@ -310,7 +306,7 @@
   },
   "langs": {
     "ca": "Catalan",
-    "in": "English",
+    "en": "English",
     "es": "Castellano",
     "ru": "Russian",
     "zh": "Chinese"
