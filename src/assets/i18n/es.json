@@ -72,7 +72,7 @@
       }
     },
     "contemporaryFurniture.title": "Mobiliario contemporáneo",
-    "Furnishing": {
+    "furnishing": {
       "bespoke": {
         "desc": "Diseñamos un traje a medida para tu hogar y tu empresa",
         "title": "Exclusivo a medida"
@@ -88,7 +88,7 @@
     "generic": {
       "after": "Obra finalizada",
       "before": "Antes",
-      "planes": "Planos",
+      "plans": "Planos",
       "render": "Render"
     },
     "headquarter.title": "Tienda",
@@ -138,8 +138,8 @@
       "brussels": "Bruselas",
       "cerdanya": "Cerdanya (Girona)",
       "chelsea": "Chelsea (Londres)",
-      "ensanche": "Eixample (Barcelona)",
-      "ampurdan": "Empordà (Girona)",
+      "eixample": "Eixample (Barcelona)",
+      "emporda": "Empordà (Girona)",
       "francescMacia": "Francesc Macià (Barcelona)",
       "girona": "Girona",
       "gracia": "Gracia (Barcelona)",
@@ -152,10 +152,10 @@
       "portugal": "Portugal",
       "ramblaCatalunya": "Rambla Catalunya (Barcelona)",
       "sabadell": "Sabadell (Barcelona)",
-      "santcugat": "Sant Cugat (Barcelona)",
+      "santCugat": "Sant Cugat (Barcelona)",
       "santGervasi": "Sant Gervasi (Barcelona)",
       "serrano": "Serrano (Madrid)",
-      "silos": "Sitges (Barcelona)",
+      "sitges": "Sitges (Barcelona)",
       "valldoreix": "Valldoreix (Barcelona)",
       "vilaOlimpica": "Villa Olímpica (Barcelona)"
     },
@@ -192,7 +192,7 @@
       "main.title": "Locales públicos"
     },
     "showroom": {
-      "clásico": {
+      "classic": {
         "desc": "Diseñamos un traje a medida para tu hogar y tu empresa",
         "title": "Mueble clásico"
       },
@@ -286,7 +286,7 @@
       "target": "Target",
       "temasV": "Tema V",
       "titanium": "Titanium",
-      "Vibia": "Vibia",
+      "vibia": "Vibia",
       "xlms": "XLMS",
       "yume": "Yume"
     },
@@ -300,7 +300,7 @@
     "street": "Muntaner 414, Ent 2"
   },
   "generalMessage": "Web en pruebas",
-  "hombre": {
+  "home": {
     "logoAlt": "Margot Viarnès",
     "slogan": "Creamos espacios únicos"
   },
