@@ -1,7 +1,7 @@
 {
-  "place": "content.place.kantar",
+  "place": "content.place.barcelona",
   "tags": [
-    "content.tag.flat"
+    "content.tag.kantarGroup"
   ],
   "desc": "content.projects.kantar1.desc",
   "sections": [

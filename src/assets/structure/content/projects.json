@@ -53,10 +53,10 @@
         ]
       },
       "projects/kantar-1": {
-        "place": "content.place.eixample",
-        "img": "projects/kantar-1/r1.jpg",
+        "place": "content.place.barcelona",
+        "img": "projects/kantar-1/a1.jpg",
         "tags": [
-          "content.tag.flat"
+          "content.tag.kantarGroup"
         ]
       }
     }
