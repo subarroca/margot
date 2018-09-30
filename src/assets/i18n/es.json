@@ -74,7 +74,7 @@
     "contemporaryFurniture.title": "Mobiliario contemporáneo",
     "furnishing": {
       "bespoke": {
-        "desc": "Diseñamos un traje a medida para tu hogar y tu empresa",
+        "desc": "",
         "title": "Exclusivo a medida"
       },
       "industrial": {
@@ -93,7 +93,7 @@
     },
     "headquarter.title": "Tienda",
     "housing": {
-      "main.desc": "Creamos y construimos un hogar completa o un solo espacio hasta el último detalle.",
+      "main.desc": "Creamos y construimos un hogar completo o un solo espacio hasta el último detalle.",
       "main.title": "Viviendas"
     },
     "industrialDesign": {
@@ -193,11 +193,11 @@
     },
     "showroom": {
       "classic": {
-        "desc": "Diseñamos un traje a medida para tu hogar y tu empresa",
+        "desc": "",
         "title": "Mueble clásico"
       },
       "contemporary": {
-        "desc": "Sensibilidad y rigor técnico en las grandes producciones",
+        "desc": "",
         "title": "Mueble Contemporáneo"
       },
       "headquarter": {
@@ -209,7 +209,7 @@
         "title": "Estudio-Showroom-Tienda"
       },
       "textile": {
-        "desc": "Sensibilidad y rigor técnico en las grandes producciones",
+        "desc": "",
         "title": "Textil"
       }
     },
@@ -284,7 +284,7 @@
       "studio": "Estudio",
       "tables": "Tablas",
       "target": "Target",
-      "temasV": "Tema V",
+      "temasV": "Temas V",
       "titanium": "Titanium",
       "vibia": "Vibia",
       "xlms": "XLMS",

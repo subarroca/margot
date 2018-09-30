@@ -161,7 +161,7 @@
     },
     "press": {
       "aside": {
-        "desc": "<p>Margot Viarnés ha estat seleccionada entre els 40 dissenyadors de mobles al camp de la indústria que han marcat història entre els anys 1945 i 2010 a Europa.</p><p>Edició: NIENTEDIMENO NOTHING LESS edited by anty Pansera with MARIA TERESA Chirico. UMBERTO Allemandi ¬ C. Turin – London – Venècia – New York.</p><p>Les seves obres han estat publicades en Wallspaper, Interni, Arquitectura i Disseny, el suplement d’Avantguarda, Woman, Elle, Yo Dona del diari El Mundo, Experimenta, Casa Viva, Nou Estil …</p>",
+        "desc": "<p>Margot Viarnés ha estat seleccionada entre els 40 dissenyadors de mobles al camp de la indústria que han marcat història entre els anys 1945 i 2010 a Europa.</p><p>Edició: NIENTEDIMENO NOTHING LESS edited by anty Pansera with MARIA TERESA Chirico. UMBERTO Allemandi ¬ C. Turin – London – Venècia – New York.</p><p>Les seves obres han estat publicades en Wallspaper, Interni, Arquitectura i Disseny, el suplement de La Vanguardia, Woman, Elle, Yo Mujer del diari El Mundo, Experimenta, Casa Viva, Nuevo Estilo …</p>",
         "title": "Darrer reconeixement professional"
       },
       "books": {
@@ -193,11 +193,11 @@
     },
     "showroom": {
       "classic": {
-        "desc": "Dissenyem un vestit a mida per a la teva llar i la teva empresa",
+        "desc": "",
         "title": "Moble clàssic"
       },
       "contemporary": {
-        "desc": "Sensibilitat i rigor tècnic en les grans produccions",
+        "desc": "",
         "title": "Moble contemporari"
       },
       "headquarter": {
@@ -209,7 +209,7 @@
         "title": "Estudi-Showroom-Botiga"
       },
       "textile": {
-        "desc": "Sensibilitat i rigor tècnic en les grans produccions",
+        "desc": "",
         "title": "Tèxtil"
       }
     },
@@ -284,7 +284,7 @@
       "studio": "Estudi",
       "tables": "Taules",
       "target": "Target",
-      "temasV": "Tema V",
+      "temasV": "Temas V",
       "titanium": "Titanium",
       "vibia": "Vibia",
       "xlms": "XLMS",

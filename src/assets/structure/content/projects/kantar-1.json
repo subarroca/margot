@@ -1,0 +1,25 @@
+{
+  "place": "content.place.kantar",
+  "tags": [
+    "content.tag.flat"
+  ],
+  "desc": "content.projects.kantar1.desc",
+  "sections": [
+    {
+      "title": "content.generic.render",
+      "imgs": [
+        "projects/kantar-1/r1.jpg",
+        "projects/kantar-1/r2.jpg",
+        "projects/kantar-1/r3.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.after",
+      "imgs": [
+        "projects/kantar-1/a1.jpg",
+        "projects/kantar-1/a2.jpg",
+        "projects/kantar-1/a3.jpg"
+      ]
+    }
+  ]
+}

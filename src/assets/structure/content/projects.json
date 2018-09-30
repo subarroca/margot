@@ -51,6 +51,13 @@
           "content.tag.bedroom",
           "content.tag.done"
         ]
+      },
+      "projects/kantar-1": {
+        "place": "content.place.eixample",
+        "img": "projects/kantar-1/r1.jpg",
+        "tags": [
+          "content.tag.flat"
+        ]
       }
     }
   }

@@ -193,11 +193,11 @@
     },
     "showroom": {
       "classic": {
-        "desc": "We design a tailored suit for your home and your company",
+        "desc": "",
         "title": "Classic furniture"
       },
       "contemporary": {
-        "desc": "Sensitivity and technical rigor in the big productions",
+        "desc": "",
         "title": "contemporary furniture"
       },
       "headquarter": {
@@ -209,7 +209,7 @@
         "title": "Studio-Showroom-Store"
       },
       "textile": {
-        "desc": "Sensitivity and technical rigor in the big productions",
+        "desc": "",
         "title": "Textile"
       }
     },
@@ -284,7 +284,7 @@
       "studio": "Study",
       "tables": "Tables",
       "target": "Target",
-      "temasV": "Tema V",
+      "temasV": "Temas V",
       "titanium": "Titanium",
       "vibia": "Vibia",
       "xlms": "XLMS",
