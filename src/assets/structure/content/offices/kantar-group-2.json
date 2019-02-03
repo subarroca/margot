@@ -1,0 +1,32 @@
+{
+  "place": "content.place.barcelona",
+  "tags": [
+    "content.tag.kantarGroup",
+    "content.tag.facade",
+    "content.tag.hall"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "imgs": [
+        "offices/kantar-group-2/1.jpg",
+        "offices/kantar-group-2/2.jpg",
+        "offices/kantar-group-2/3.jpg",
+        "offices/kantar-group-2/4.jpg",
+        "offices/kantar-group-2/5.jpg",
+        "offices/kantar-group-2/6.jpg",
+        "offices/kantar-group-2/7.jpg",
+        "offices/kantar-group-2/8.jpg",
+        "offices/kantar-group-2/9.jpg",
+        "offices/kantar-group-2/10.jpg",
+        "offices/kantar-group-2/11.jpg",
+        "offices/kantar-group-2/12.jpg",
+        "offices/kantar-group-2/13.jpg",
+        "offices/kantar-group-2/14.jpg",
+        "offices/kantar-group-2/15.jpg",
+        "offices/kantar-group-2/16.jpg",
+        "offices/kantar-group-2/17.jpg"
+      ]
+    }
+  ]
+}

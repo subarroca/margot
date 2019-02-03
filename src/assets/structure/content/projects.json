@@ -52,6 +52,15 @@
           "content.tag.done"
         ]
       },
+      "projects/kantar-2": {
+        "place": "content.place.barcelona",
+        "img": "projects/kantar-2/a1.jpg",
+        "tags": [
+          "content.tag.kantarGroup",
+          "content.tag.facade",
+          "content.tag.hall"
+        ]
+      },
       "projects/kantar-1": {
         "place": "content.place.barcelona",
         "img": "projects/kantar-1/a1.jpg",

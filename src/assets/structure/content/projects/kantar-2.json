@@ -1,0 +1,29 @@
+{
+  "place": "content.place.barcelona",
+  "tags": [
+    "content.tag.kantarGroup",
+    "content.tag.facade",
+    "content.tag.hall"
+  ],
+  "desc": "content.projects.kantar1.desc",
+  "sections": [
+    {
+      "title": "content.generic.render",
+      "imgs": [
+        "projects/kantar-2/r1.jpg",
+        "projects/kantar-2/r2.jpg",
+        "projects/kantar-2/r3.jpg",
+        "projects/kantar-2/r4.jpg"
+      ]
+    },
+    {
+      "title": "content.generic.after",
+      "imgs": [
+        "projects/kantar-2/a1.jpg",
+        "projects/kantar-2/a2.jpg",
+        "projects/kantar-2/a3.jpg",
+        "projects/kantar-2/a4.jpg"
+      ]
+    }
+  ]
+}
